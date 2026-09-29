@@ -105,13 +105,6 @@ npx vercel          # preview
 npx vercel --prod   # production
 ```
 
-## Submitting to the Pollinations quest
-
-1. Deploy the game (see above).
-2. Open the quest's **app submission form**.
-3. Paste your deployed URL and set the **Quest field to `#15725`**.
-4. Submit. That's the whole flow.
-
 ## Regenerating the fakes with Pollinations (optional)
 
 The shipped fakes were pre-generated at build time so the game needs **no
