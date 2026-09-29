@@ -1,0 +1,482 @@
+{
+ "mountain-sunbeams": {
+  "desc": "Rocky mountains with sunbeams over a green valley",
+  "tells": [
+   "physically impossible mountain ridge geometry",
+   "melted and nonsensical snow patch shapes",
+   "over-smooth plastic-like texture on grassy slopes"
+  ]
+ },
+ "sunrise-ridges": {
+  "desc": "Rolling green hills and misty valleys at sunrise",
+  "tells": [
+   "impossible mist geometry floating above valleys without source",
+   "over-smooth, plastic-like texture on mountain slopes",
+   "nonsensical, melting stream in the lower left valley"
+  ]
+ },
+ "wheat-fields": {
+  "desc": "Patchwork of golden and green farm fields with trees",
+  "tells": [
+   "wheat stalks melt into a uniform textureless mass",
+   "green plants in foreground have indistinct, fused leaves",
+   "distant background landscape is overly smooth and dreamy"
+  ]
+ },
+ "baobab-savanna": {
+  "desc": "Giant baobab tree in African savanna at sunset",
+  "tells": [
+   "impossible branching geometry with fused and floating twigs",
+   "nonsensical dark blobs in the distant background",
+   "over-smooth, plastic-like texture on the tree trunk"
+  ]
+ },
+ "volcano-salt-flat": {
+  "desc": "Symmetrical volcanic cone over a white salt flat",
+  "tells": [
+   "impossible radial erosion patterns on the cone",
+   "garbled and melted structures along the shoreline",
+   "repetitive, non-geometric texture on the salt flat"
+  ]
+ },
+ "desert-rock-formations": {
+  "desc": "Red rock butte and desert road under blue sky",
+  "tells": [
+   "nonsensical vertical rock ridges on cliff face",
+   "inconsistent and illogical shadow directions",
+   "garbled and repetitive desert shrub textures"
+  ]
+ },
+ "autumn-mountain-slopes": {
+  "desc": "Steep rocky mountain slopes with autumn shrubs",
+  "tells": [
+   "repetitive, non-branching texture of the vegetation",
+   "physically impossible, melted rock formations and ridges",
+   "inconsistent and illogical shadow patterns across the terrain"
+  ]
+ },
+ "grassland-road-sunset": {
+  "desc": "Dirt road through golden grassland at sunset",
+  "tells": [
+   "grass texture is a repetitive, smeared pattern",
+   "road surface lacks realistic tire ruts or depth",
+   "horizon line is unnaturally flat and perfect"
+  ]
+ },
+ "dead-tree-clay-pan": {
+  "desc": "Dead tree on cracked clay pan before orange dunes",
+  "tells": [
+   "tree branches have impossible fused geometry at the joints",
+   "shadows on the ground lack coherent direction and depth",
+   "distant background vegetation appears as indistinct blurry blobs"
+  ]
+ },
+ "yellow-jelly-fungus": {
+  "desc": "Yellow jelly fungi on a mossy forest log",
+  "tells": [
+   "fused and overlapping fungal spheres with no clear attachment points",
+   "moss texture appears as repetitive, plastic-like tufts",
+   "background trees are indistinct, dreamy smudges lacking bark detail"
+  ]
+ },
+ "orange-bracket-fungus": {
+  "desc": "Large orange bracket fungus on a forest stump",
+  "tells": [
+   "impossible concentric ring pattern on fungus cap",
+   "fused and indistinct wood grain on the stump base",
+   "overly smooth, plastic-like texture of the mushroom surface"
+  ]
+ },
+ "fly-agaric": {
+  "desc": "A red fly agaric mushroom in green moss",
+  "tells": [
+   "mushroom gills are fused into a solid ring",
+   "white spots are uniform and lack texture",
+   "background leaves are melted and nonsensical"
+  ]
+ },
+ "earthstar-fungus": {
+  "desc": "A star-shaped earthstar fungus on forest litter",
+  "tells": [
+   "impossible thick-walled bowl-like fungal geometry",
+   "background leaves are melted and lack clear veins",
+   "nonsensical dark spots and texture on the fungus surface"
+  ]
+ },
+ "mushroom-basket": {
+  "desc": "Wicker basket of wild mushrooms on forest grass",
+  "tells": [
+   "mushroom stems fused into a single tangled mass",
+   "wicker handle merges seamlessly into basket rim",
+   "background foliage lacks distinct botanical detail"
+  ]
+ },
+ "dog-rose": {
+  "desc": "A pink rose in full bloom on green background",
+  "tells": [
+   "impossible petal geometry in the center",
+   "over-smooth plastic-like petal texture",
+   "nonsensical background leaf shapes"
+  ]
+ },
+ "pink-meadow-flower": {
+  "desc": "A bright pink five-petaled flower on green background",
+  "tells": [
+   "flower has six petals instead of the requested five",
+   "stamen center is a fused, indistinct orange mass",
+   "petal texture is unnaturally smooth and plastic-like"
+  ]
+ },
+ "round-leaved-plant": {
+  "desc": "A green plant with oval leaves on forest litter",
+  "tells": [
+   "leaves are oval/pointed instead of round as prompted",
+   "leaf litter contains fused and shapeless organic debris",
+   "plant stem lacks realistic texture and root structure"
+  ]
+ },
+ "mossy-bracket-fungus": {
+  "desc": "Red shelf fungus and green moss on a log",
+  "tells": [
+   "mushrooms have impossible fused and overlapping geometry",
+   "moss texture is a repetitive smeared pattern",
+   "background foliage is an indistinct blurry mess"
+  ]
+ },
+ "stump-texture-bw": {
+  "desc": "Black and white close-up of a tree stump",
+  "tells": [
+   "growth rings do not follow a consistent circular path",
+   "bark texture consists of repetitive vertical ridges lacking natural variation",
+   "cracks on the surface terminate or merge without logical cause"
+  ]
+ },
+ "cheroot-smoker": {
+  "desc": "Elderly Asian man smoking a cigar in golden light",
+  "tells": [
+   "fused and anatomically incorrect fingers holding the cigar",
+   "cigar end merges unnaturally with the lips",
+   "over-smooth, plastic-like skin texture on the forehead"
+  ]
+ },
+ "elderly-man-rhodes-bw": {
+  "desc": "Black and white portrait of an elderly man in a striped shirt",
+  "tells": [
+   "garbled and melting shirt collar geometry",
+   "inconsistent and nonsensical stripe patterns on the fabric",
+   "over-smooth, plastic-like skin texture with unnatural pore detail"
+  ]
+ },
+ "hammerhead-carrier": {
+  "desc": "Man carrying a large shark on his shoulder",
+  "tells": [
+   "shark is a generic species, not a hammerhead as prompted",
+   "shark's body appears to merge or clip into the man's shoulder",
+   "background pedestrians have blurry, indistinct facial features"
+  ]
+ },
+ "roadside-workshop": {
+  "desc": "Men weaving bamboo baskets in an outdoor workshop",
+  "tells": [
+   "garbled and fused finger anatomy on central figure's hands",
+   "melted and physically impossible basket weave patterns",
+   "nonsensical background details with blurry, undefined objects"
+  ]
+ },
+ "bearded-pipe-smoker-bw": {
+  "desc": "Black and white portrait of an old bearded man with a pipe",
+  "tells": [
+   "pipe stem fuses with the beard hair",
+   "impossible ear geometry with extra folds",
+   "over-smooth plastic-like skin texture"
+  ]
+ },
+ "subway-escalator-bw": {
+  "desc": "Commuters on a long subway escalator in black and white",
+  "tells": [
+   "garbled and nonsensical faces of background commuters",
+   "physically impossible anatomy of the central running figure",
+   "inconsistent and melted geometry of the escalator steps"
+  ]
+ },
+ "gothic-cathedral-night": {
+  "desc": "Illuminated gothic cathedral facade at night",
+  "tells": [
+   "garbled and nonsensical stone carvings in the archivolts",
+   "physically impossible fused geometry of the rose window tracery",
+   "statues and pinnacles melt into the background stonework"
+  ]
+ },
+ "light-arches-street": {
+  "desc": "A narrow European street with blue light arches at night",
+  "tells": [
+   "garbled or invented text on storefront signs",
+   "physically impossible geometry of the light arches",
+   "melted and indistinct features on pedestrians"
+  ]
+ },
+ "museum-at-night": {
+  "desc": "Neoclassical museum with glowing columns at night",
+  "tells": [
+   "garbled and nonsensical column capitals",
+   "melted and indistinct human figures on the steps",
+   "impossible geometry of the fluted columns merging into the background wall"
+  ]
+ },
+ "chateau-chillon-dusk": {
+  "desc": "Medieval lakeside castle with snowy mountains at dusk",
+  "tells": [
+   "garbled green symbols on the tower walls",
+   "impossible window geometry and nonsensical architectural details",
+   "over-smooth, plastic-like rendering of the stone textures"
+  ]
+ },
+ "singapore-skyline": {
+  "desc": "Singapore skyline with Marina Bay Sands at dusk",
+  "tells": [
+   "Marina Bay Sands has four towers instead of three",
+   "ArtScience Museum has an extra petal-like structure",
+   "background skyscrapers have nonsensical window patterns"
+  ]
+ },
+ "cliffside-village": {
+  "desc": "Colorful cliffside Mediterranean village overlooking blue sea",
+  "tells": [
+   "impossible building geometry with fused and overlapping structures",
+   "garbled and nonsensical architectural details on the bridge and facades",
+   "melted, plastic-like texture of the rocky cliffs"
+  ]
+ },
+ "waterfront-canal-houses": {
+  "desc": "Colorful gabled houses along a canal with boats",
+  "tells": [
+   "garbled and illegible text on building facades",
+   "melted or fused bicycles parked on the sidewalk",
+   "impossible geometry in the foreground boat's wooden planks"
+  ]
+ },
+ "amsterdam-canal": {
+  "desc": "Amsterdam canal with houseboats, cars, and elm trees",
+  "tells": [
+   "garbled and nonsensical bicycle shapes on the left quay",
+   "fused or melting boat hulls in the middle distance",
+   "impossible window geometry and inconsistent architectural details on buildings"
+  ]
+ },
+ "rho-ophiuchi": {
+  "desc": "AI-generated red and blue nebula with star field",
+  "tells": [
+   "nebula structure has melted, vein-like texture instead of gas clouds",
+   "stars are unnaturally uniform in size and distribution",
+   "overall too clean and idealized with no sensor noise or artifacts"
+  ]
+ },
+ "crab-nebula": {
+  "desc": "AI-generated image of a colorful supernova remnant",
+  "tells": [
+   "symmetrical spiral structure instead of chaotic filaments",
+   "central star lacks realistic diffraction spikes or glare",
+   "gas clouds have a smooth, painted texture lacking fine detail"
+  ]
+ },
+ "comet-neowise": {
+  "desc": "Comet with single tail over a silhouetted tree at twilight",
+  "tells": [
+   "comet has only one tail instead of the requested twin tails",
+   "tree branches show impossible looping and fused geometry",
+   "background treeline consists of melted, nonsensical shapes"
+  ]
+ },
+ "perseid-meteor": {
+  "desc": "A meteor and Milky Way over a dark lake",
+  "tells": [
+   "nonsensical vertical light streaks in the water reflection",
+   "impossible geometry of the jagged horizon silhouette",
+   "over-smooth, dreamy rendering of the galactic core"
+  ]
+ },
+ "aurora-star-trails": {
+  "desc": "Green aurora and stars over a rocky coast",
+  "tells": [
+   "stars are static points instead of circumpolar trails",
+   "rocks in the foreground are unnaturally smooth and uniform",
+   "aurora reflections on water lack physical coherence"
+  ]
+ },
+ "bird-red-flowers": {
+  "desc": "Red songbird perched on red flowering branch",
+  "tells": [
+   "bird's feet are fused to the branch without clear toes",
+   "flowers have inconsistent petal counts and fused centers",
+   "feather patterns on the wing show repetitive, nonsensical striping"
+  ]
+ },
+ "bohemian-waxwing": {
+  "desc": "Bohemian waxwing on a snowy branch",
+  "tells": [
+   "impossible tail with yellow tip and black band",
+   "garbled wing patterns and feather layering",
+   "plastic-smooth texture on bird's body"
+  ]
+ },
+ "verditer-flycatcher": {
+  "desc": "Blue bird perched on a bare branch",
+  "tells": [
+   "fused or missing toes on the bird's feet",
+   "impossible branch geometry with no clear connection point",
+   "over-smooth, plastic-like texture of the feathers"
+  ]
+ },
+ "reed-parrotbill": {
+  "desc": "Close-up of a reed parrotbill perched on a branch",
+  "tells": [
+   "fused and indistinct bird feet gripping the branch",
+   "melted and nonsensical texture of the branch bark",
+   "over-smooth, plastic-like rendering of the plumage"
+  ]
+ },
+ "weaver-bird-nest": {
+  "desc": "Yellow weaver bird on a woven nest",
+  "tells": [
+   "impossible fused nest geometry with two birds",
+   "bird's red eye and beak shape are biologically wrong",
+   "nonsensical background bird head without a body"
+  ]
+ },
+ "infinity-pool-pavilion": {
+  "desc": "Thatched-roof pavilion by a turquoise infinity pool",
+  "tells": [
+   "garbled wooden railing geometry and fused joints",
+   "impossible shadow directions on the deck",
+   "over-smooth plastic-like water texture"
+  ]
+ },
+ "alhambra-arcade": {
+  "desc": "Moorish palace arcade with columns and a fountain",
+  "tells": [
+   "garbled and nonsensical geometric patterns in the upper arches",
+   "physically impossible fused column clusters on the left",
+   "overly smooth, plastic-like texture of the stone carvings"
+  ]
+ },
+ "alhambra-courtyard": {
+  "desc": "Moorish palace courtyard with a long reflecting pool",
+  "tells": [
+   "garbled and nonsensical geometric patterns on the carved walls",
+   "physically impossible and inconsistent architectural arches",
+   "over-smooth, plastic-like texture on the water surface"
+  ]
+ },
+ "station-clock-bw": {
+  "desc": "Ornate station clock under a curved glass roof",
+  "tells": [
+   "garbled and nonsensical Roman numerals on clock face",
+   "repetitive, melting decorative scrollwork on the arch",
+   "impossible grid geometry of the window panes"
+  ]
+ },
+ "astronomical-clock": {
+  "desc": "Close-up of a medieval astronomical clock dial",
+  "tells": [
+   "garbled and invented text on the outer rings",
+   "zodiac figures with melted or fused anatomy",
+   "physically impossible overlapping clock hands"
+  ]
+ },
+ "bee-mid-air": {
+  "desc": "A honey bee hovering near white flowers",
+  "tells": [
+   "bee has four wings instead of two",
+   "abdominal stripes are irregular and smudged",
+   "antennae are thick and lack fine segmentation"
+  ]
+ },
+ "hummingbird-hawkmoth": {
+  "desc": "A moth hovering near purple flowers",
+  "tells": [
+   "wings are fully extended instead of blurred from hovering",
+   "antennae have an unnatural curved hook shape",
+   "flower petals have inconsistent and fused geometry"
+  ]
+ },
+ "bat-in-sky": {
+  "desc": "A bat with spread wings flying in a blue sky",
+  "tells": [
+   "impossible wing membrane texture resembling woven leather or wood grain",
+   "anatomically incorrect facial structure and ear placement for a bat",
+   "overly smooth, plastic-like rendering of the fur and body"
+  ]
+ },
+ "dragonfly-in-flight": {
+  "desc": "A red-veined darter dragonfly perched on a twig",
+  "tells": [
+   "incorrect number of wings (four instead of two pairs)",
+   "fused or missing leg joints on the thorax",
+   "nonsensical wing venation patterns"
+  ]
+ },
+ "humpback-with-calf": {
+  "desc": "Humpback whale and calf swimming underwater",
+  "tells": [
+   "calf's body is fused into the mother's back",
+   "mother whale has two left pectoral fins",
+   "nonsensical background tail lacks a body"
+  ]
+ },
+ "dolphin-leap": {
+  "desc": "A dolphin leaping from the ocean near a boat",
+  "tells": [
+   "dorsal fin has a strange extra point or notch on the trailing edge",
+   "water spray forms an unnatural, solid-looking sheet rather than droplets",
+   "wooden boat railing has blurry, indistinct grain and lacks realistic texture"
+  ]
+ },
+ "bolts-city-bw": {
+  "desc": "Black and white macro photo of hexagonal nuts",
+  "tells": [
+   "impossible concentric ring texture on nut faces",
+   "threads on outer face instead of inner bore",
+   "fused and overlapping geometry of background objects"
+  ]
+ },
+ "girl-at-stove": {
+  "desc": "A girl crouching by a coal stove cooking.",
+  "tells": [
+   "garbled stove handle fusing with the girl's hand",
+   "impossible anatomy of the left foot and sandal strap",
+   "nonsensical background texture on the wall"
+  ]
+ },
+ "man-with-donkey": {
+  "desc": "Man standing with donkey carrying hay on a path",
+  "tells": [
+   "fused strap passing through the man's arm",
+   "impossible button placement on jacket placket",
+   "over-smooth plastic texture of the jacket fabric"
+  ]
+ },
+ "cotton-miller": {
+  "desc": "A miller inspecting thread in a dusty, sunlit factory.",
+  "tells": [
+   "garbled and nonsensical machinery parts on the left",
+   "impossible hand anatomy with fused or missing fingers",
+   "over-smooth skin texture with lack of natural pores"
+  ]
+ },
+ "milky-way-silhouette": {
+  "desc": "Silhouette of a person on a hill under the Milky Way",
+  "tells": [
+   "garbled and inconsistent star patterns in the Milky Way",
+   "silhouette lacks anatomical detail with fused or missing limbs",
+   "overly smooth, plastic-like texture of the hill's surface"
+  ]
+ },
+ "pepper-bw": {
+  "desc": "Black and white close-up of a glossy bell pepper",
+  "tells": [
+   "garbled and fused stem base geometry",
+   "nonsensical textured ring around the stem",
+   "over-smooth plastic-like skin texture"
+  ]
+ }
+}

@@ -1,0 +1,90 @@
+[
+ {
+  "kind": "novel",
+  "title": "Moby Dick",
+  "author": "Herman Melville",
+  "year": 1851,
+  "sourceUrl": "https://www.gutenberg.org/ebooks/2701",
+  "text": "Call me Ishmael. Some years ago—never mind how long precisely—having little or no money in my purse, and nothing particular to interest me on shore, I thought I would sail about a little and see the watery part of the world. It is a way I have of driving off the spleen and regulating the circulation."
+ },
+ {
+  "kind": "novel",
+  "title": "Pride and Prejudice",
+  "author": "Jane Austen",
+  "year": 1813,
+  "sourceUrl": "https://www.gutenberg.org/ebooks/1342",
+  "text": "It is a truth universally acknowledged, that a single man in possession of a good fortune must be in want of a wife. However little known the feelings or views of such a man may be on his first entering a neighbourhood, this truth is so well fixed in the minds of the surrounding families, that he is considered as the rightful property of some one or other of their daughters. “My dear Mr."
+ },
+ {
+  "kind": "novel",
+  "title": "Alice's Adventures in Wonderland",
+  "author": "Lewis Carroll",
+  "year": 1865,
+  "sourceUrl": "https://www.gutenberg.org/ebooks/11",
+  "text": "Alice was beginning to get very tired of sitting by her sister on the bank, and of having nothing to do: once or twice she had peeped into the book her sister was reading, but it had no pictures or conversations in it, “and what is the use of a book,” thought Alice “without pictures or conversations?”"
+ },
+ {
+  "kind": "novel",
+  "title": "Jane Eyre",
+  "author": "Charlotte Brontë",
+  "year": 1847,
+  "sourceUrl": "https://www.gutenberg.org/ebooks/1260",
+  "text": "There was no possibility of taking a walk that day. We had been wandering, indeed, in the leafless shrubbery an hour in the morning; but since dinner (Mrs. Reed, when there was no company, dined early) the cold winter wind had brought with it clouds so sombre, and a rain so penetrating, that further outdoor exercise was now out of the question."
+ },
+ {
+  "kind": "novel",
+  "title": "The Great Gatsby",
+  "author": "F. Scott Fitzgerald",
+  "year": 1925,
+  "sourceUrl": "https://www.gutenberg.org/ebooks/64317",
+  "text": "In my younger and more vulnerable years my father gave me some advice that I’ve been turning over in my mind ever since. “Whenever you feel like criticizing anyone,” he told me, “just remember that all the people in this world haven’t had the advantages that you’ve had.”"
+ },
+ {
+  "kind": "novel",
+  "title": "Wuthering Heights",
+  "author": "Emily Brontë",
+  "year": 1847,
+  "sourceUrl": "https://www.gutenberg.org/ebooks/768",
+  "text": "I have just returned from a visit to my landlord—the solitary neighbour that I shall be troubled with. This is certainly a beautiful country! In all England, I do not believe that I could have fixed on a situation so completely removed from the stir of society."
+ },
+ {
+  "kind": "novel",
+  "title": "The Time Machine",
+  "author": "H. G. Wells",
+  "year": 1895,
+  "sourceUrl": "https://www.gutenberg.org/ebooks/35",
+  "text": "The Time Traveller (for so it will be convenient to speak of him) was expounding a recondite matter to us. His grey eyes shone and twinkled, and his usually pale face was flushed and animated. The fire burnt brightly, and the soft radiance of the incandescent lights in the lilies of silver caught the bubbles that flashed and passed in our glasses."
+ },
+ {
+  "kind": "poem",
+  "title": "Because I could not stop for Death",
+  "author": "Emily Dickinson",
+  "year": 1890,
+  "sourceUrl": "https://www.gutenberg.org/ebooks/12242",
+  "text": "Because I could not stop for Death, He kindly stopped for me; The carriage held but just ourselves And Immortality. We slowly drove, he knew no haste, And I had put away My labor, and my leisure too, For his civility."
+ },
+ {
+  "kind": "novel",
+  "title": "A Tale of Two Cities",
+  "author": "Charles Dickens",
+  "year": 1859,
+  "sourceUrl": "https://www.gutenberg.org/ebooks/98",
+  "text": "It was the best of times, it was the worst of times, it was the age of wisdom, it was the age of foolishness, it was the epoch of belief, it was the epoch of incredulity, it was the season of Light, it was the season of Darkness, it was the spring of hope, it was the winter of despair, we had everything before us, we had nothing before us, we were all going direct to Heaven, we were all going direct the other way--in short, the period was so far like the present period, that some of its noisiest authorities insisted on its being received, for good or for evil, in the superlative degree of comparison only."
+ },
+ {
+  "kind": "novel",
+  "title": "Frankenstein",
+  "author": "Mary Shelley",
+  "year": 1818,
+  "sourceUrl": "https://www.gutenberg.org/ebooks/84",
+  "text": "I am by birth a Genevese, and my family is one of the most distinguished of that republic. My ancestors had been for many years counsellors and syndics, and my father had filled several public situations with honour and reputation. He was respected by all who knew him for his integrity and indefatigable attention to public business."
+ },
+ {
+  "kind": "novel",
+  "title": "Dracula",
+  "author": "Bram Stoker",
+  "year": 1897,
+  "sourceUrl": "https://www.gutenberg.org/ebooks/345",
+  "text": "Left Munich at 8:35 P. M., on 1st May, arriving at Vienna early next morning; should have arrived at 6:46, but train was an hour late. Buda-Pesth seems a wonderful place, from the glimpse which I got of it from the train and the little I could walk through the streets."
+ }
+]

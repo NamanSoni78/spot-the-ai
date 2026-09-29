@@ -1,0 +1,536 @@
+[
+ {
+  "slug": "novel-moby-dick",
+  "kind": "novel",
+  "title": "Moby Dick",
+  "author": "Herman Melville",
+  "year": 1851,
+  "sourceUrl": "https://www.gutenberg.org/ebooks/2701",
+  "text": "Call me Ishmael. Some years ago—never mind how long precisely—having little or no money in my purse, and nothing particular to interest me on shore, I thought I would sail about a little and see the watery part of the world. It is a way I have of driving off the spleen and regulating the circulation.",
+  "tier": 1,
+  "fake": "I am Arthur Pendleton, scion of a noble line that traced its lineage back to the age of chivalry, when my forebears rode forth to defend the realm against encroaching darkness and uphold the virtues of honor and steadfast courage.",
+  "tells": [
+   "overly elaborate lineage description",
+   "formulaic cadence",
+   "encroaching darkness phrasing"
+  ]
+ },
+ {
+  "slug": "novel-pride-and-prejudice",
+  "kind": "novel",
+  "title": "Pride and Prejudice",
+  "author": "Jane Austen",
+  "year": 1813,
+  "sourceUrl": "https://www.gutenberg.org/ebooks/1342",
+  "text": "It is a truth universally acknowledged, that a single man in possession of a good fortune must be in want of a wife. However little known the feelings or views of such a man may be on his first entering a neighbourhood, this truth is so well fixed in the minds of the surrounding families, that he is considered as the rightful property of some one or other of their daughters. “My dear Mr.",
+  "tier": 1,
+  "fake": "It was an undeniable fact of society that a gentleman of considerable means, upon arriving in a new locale, invariably became the object of matrimonial aspirations among eligible young ladies of the neighborhood, whose families viewed him as a most desirable prize for their daughters' futures.",
+  "tells": [
+   "rhythm too even",
+   "word choice overly formal",
+   "sentence structure overly symmetrical"
+  ]
+ },
+ {
+  "slug": "novel-alice-s-adventures-in-wonderland",
+  "kind": "novel",
+  "title": "Alice's Adventures in Wonderland",
+  "author": "Lewis Carroll",
+  "year": 1865,
+  "sourceUrl": "https://www.gutenberg.org/ebooks/11",
+  "text": "Alice was beginning to get very tired of sitting by her sister on the bank, and of having nothing to do: once or twice she had peeped into the book her sister was reading, but it had no pictures or conversations in it, “and what is the use of a book,” thought Alice “without pictures or conversations?”",
+  "tier": 1,
+  "fake": "Young Eleanor stood by the casement, gazing at the storm-tossed waves that crashed against the rugged cliffs below. The tempest mirrored her turbulent emotions as she contemplated the uncertain path that lay before her in this new and uncharted chapter of life.",
+  "tells": [
+   "rhythm too even",
+   "imagery too generic",
+   "word too modern ('chapter')"
+  ]
+ },
+ {
+  "slug": "novel-jane-eyre",
+  "kind": "novel",
+  "title": "Jane Eyre",
+  "author": "Charlotte Brontë",
+  "year": 1847,
+  "sourceUrl": "https://www.gutenberg.org/ebooks/1260",
+  "text": "There was no possibility of taking a walk that day. We had been wandering, indeed, in the leafless shrubbery an hour in the morning; but since dinner (Mrs. Reed, when there was no company, dined early) the cold winter wind had brought with it clouds so sombre, and a rain so penetrating, that further outdoor exercise was now out of the question.",
+  "tier": 2,
+  "fake": "It was a bleak afternoon in November, when the fog lay thick upon the moors, and the chill wind whistled mournfully through the leafless trees. Mrs. Thornton, having dismissed the parlour maid, sat alone by the crackling hearth, her thoughts wandering to days long past and futures uncertain.",
+  "tells": [
+   "moors too generic for a novel setting",
+   "parlour maid too specific and anachronistic",
+   "crackling hearth too perfect atmospheric detail"
+  ]
+ },
+ {
+  "slug": "novel-the-great-gatsby",
+  "kind": "novel",
+  "title": "The Great Gatsby",
+  "author": "F. Scott Fitzgerald",
+  "year": 1925,
+  "sourceUrl": "https://www.gutenberg.org/ebooks/64317",
+  "text": "In my younger and more vulnerable years my father gave me some advice that I’ve been turning over in my mind ever since. “Whenever you feel like criticizing anyone,” he told me, “just remember that all the people in this world haven’t had the advantages that you’ve had.”",
+  "tier": 2,
+  "fake": "In my youthful days of innocence and impressionable mind, my father imparted wisdom that has lingered with me throughout my existence: 'Whensoever you find yourself inclined toward judging others, reflect upon the varied fortunes that life has bestowed upon thee.'",
+  "tells": [
+   "word 'existence' too formal",
+   "alliteration too balanced",
+   "unnatural archaic phrasing"
+  ]
+ },
+ {
+  "slug": "novel-wuthering-heights",
+  "kind": "novel",
+  "title": "Wuthering Heights",
+  "author": "Emily Brontë",
+  "year": 1847,
+  "sourceUrl": "https://www.gutenberg.org/ebooks/768",
+  "text": "I have just returned from a visit to my landlord—the solitary neighbour that I shall be troubled with. This is certainly a beautiful country! In all England, I do not believe that I could have fixed on a situation so completely removed from the stir of society.",
+  "tier": 2,
+  "fake": "I have recently returned from a visit to my landlord—the solitary neighbor that I shall be troubled with. This is certainly a beautiful country! In all England, I do not believe that I could have fixed on a situation so completely removed from the stir of society.",
+  "tells": [
+   "use of 'recently' instead of period-appropriate 'just'",
+   "overly balanced parallel structure in the first sentence",
+   "slightly too-perfect rhythm throughout the paragraph"
+  ]
+ },
+ {
+  "slug": "novel-the-time-machine",
+  "kind": "novel",
+  "title": "The Time Machine",
+  "author": "H. G. Wells",
+  "year": 1895,
+  "sourceUrl": "https://www.gutenberg.org/ebooks/35",
+  "text": "The Time Traveller (for so it will be convenient to speak of him) was expounding a recondite matter to us. His grey eyes shone and twinkled, and his usually pale face was flushed and animated. The fire burnt brightly, and the soft radiance of the incandescent lights in the lilies of silver caught the bubbles that flashed and passed in our glasses.",
+  "tier": 2,
+  "fake": "The elderly gentleman stood upon the windswept cliff, his worn frockcoat flapping in the sea breeze as he contemplated the vast expanse before him. The golden sunset cast long shadows upon the ancient rocks below, while his mind wandered through memories of bygone days and futures yet unwritten.",
+  "tells": [
+   "too-perfect parallel structure",
+   "overly sentimental description",
+   "uncharacteristically modern vocabulary"
+  ]
+ },
+ {
+  "slug": "poem-because-i-could-not-stop",
+  "kind": "poem",
+  "title": "Because I could not stop for Death",
+  "author": "Emily Dickinson",
+  "year": 1890,
+  "sourceUrl": "https://www.gutenberg.org/ebooks/12242",
+  "text": "Because I could not stop for Death, He kindly stopped for me; The carriage held but just ourselves And Immortality. We slowly drove, he knew no haste, And I had put away My labor, and my leisure too, For his civility.",
+  "tier": 3,
+  "fake": "Because Death could not stop for me, He kindly stopped for my soul; The carriage held but just ourselves And eternity. We slowly drove, he knew no haste, And I had put away My labor, and my leisure too, For his eternal grace.",
+  "tells": [
+   "slightly forced rhyme scheme in first stanza",
+   "uncharacteristically smooth transition in second stanza",
+   "too direct personification in opening line"
+  ]
+ },
+ {
+  "slug": "novel-a-tale-of-two-cities",
+  "kind": "novel",
+  "title": "A Tale of Two Cities",
+  "author": "Charles Dickens",
+  "year": 1859,
+  "sourceUrl": "https://www.gutenberg.org/ebooks/98",
+  "text": "It was the best of times, it was the worst of times, it was the age of wisdom, it was the age of foolishness, it was the epoch of belief, it was the epoch of incredulity, it was the season of Light, it was the season of Darkness, it was the spring of hope, it was the winter of despair, we had everything before us, we had nothing before us, we were all going direct to Heaven, we were all going direct the other way--in short, the period was so far like the present period, that some of its noisiest authorities insisted on its being received, for good or for evil, in the superlative degree of comparison only.",
+  "tier": 1,
+  "fake": "In the twilight of a bygone era, when the world stood poised between the dawn of progress and the shadow of uncertainty, there existed a singular moment that would echo through the ages. The air crackled with possibility, the streets hummed with the promise of tomorrow, and the hearts of men beat as one in anticipation of the great transformation that lay just beyond the horizon.",
+  "tells": [
+   "rhythm too even",
+   "imagery too generic",
+   "crackled air cliché"
+  ]
+ },
+ {
+  "slug": "novel-frankenstein",
+  "kind": "novel",
+  "title": "Frankenstein",
+  "author": "Mary Shelley",
+  "year": 1818,
+  "sourceUrl": "https://www.gutenberg.org/ebooks/84",
+  "text": "I am by birth a Genevese, and my family is one of the most distinguished of that republic. My ancestors had been for many years counsellors and syndics, and my father had filled several public situations with honour and reputation. He was respected by all who knew him for his integrity and indefatigable attention to public business.",
+  "tier": 3,
+  "fake": "I was born within the ancient walls of York, my lineage tracing through generations of respected merchants whose fortunes had fluctuated with the tides of commerce. My father, a man of stern countenance and unwavering principles, had navigated the treacherous waters of trade with a singular determination that commanded both admiration and fear.",
+  "tells": [
+   "fortunes had fluctuated with the tides of commerce",
+   "a man of stern countenance and unwavering principles",
+   "navigated the treacherous waters of trade"
+  ]
+ },
+ {
+  "slug": "novel-dracula",
+  "kind": "novel",
+  "title": "Dracula",
+  "author": "Bram Stoker",
+  "year": 1897,
+  "sourceUrl": "https://www.gutenberg.org/ebooks/345",
+  "text": "Left Munich at 8:35 P. M., on 1st May, arriving at Vienna early next morning; should have arrived at 6:46, but train was an hour late. Buda-Pesth seems a wonderful place, from the glimpse which I got of it from the train and the little I could walk through the streets.",
+  "tier": 3,
+  "fake": "Having taken my leave of Edinburgh at dawn, I arrived in Glasgow by noon, though the journey proved far longer than advertised, owing to an unexpected delay on the Forth Bridge. The city, as viewed from the carriage window, presented a panorama of industry and smoke that both impressed and appalled my sensibilities.",
+  "tells": [
+   "sensibilities - too modern",
+   "panorama of industry and smoke - generic imagery",
+   "unexpected delay on the Forth Bridge - overly specific modern reference"
+  ]
+ },
+ {
+  "slug": "poem-tyger",
+  "title": "The Tyger",
+  "author": "William Blake",
+  "year": 1794,
+  "sourceUrl": "https://en.wikipedia.org/wiki/The_Tyger",
+  "tier": 1,
+  "text": "Tyger Tyger, burning bright,\nIn the forests of the night;\nWhat immortal hand or eye,\nCould frame thy fearful symmetry?\nIn what distant deeps or skies,\nBurnt the fire of thine eyes?\nOn what wings dare he aspire?\nWhat the hand, dare seize the fire?",
+  "kind": "poem",
+  "fake": "Mystic creature, fierce and grand,\nIn the shadowed woodland land;\nWhat eternal hand or sight,\nCould shape thy dreadful might?\nFrom what distant depths or height,\nFlamed thy burning light?\nOn what wing did dare to fly?\nWhat strong hand dared touch the sky?",
+  "tells": [
+   "rhyme scheme too mechanically ABAB",
+   "imagery too conventional (grand, land, height, light)",
+   "rhythm excessively uniform compared to Blake's variable meter"
+  ]
+ },
+ {
+  "slug": "poem-daffodils",
+  "title": "I Wandered Lonely as a Cloud",
+  "author": "William Wordsworth",
+  "year": 1807,
+  "sourceUrl": "https://en.wikipedia.org/wiki/I_Wandered_Lonely_as_a_Cloud",
+  "tier": 1,
+  "text": "I wandered lonely as a cloud\nThat floats on high o’er vales and hills,\nWhen all at once I saw a crowd,\nA host, of golden daffodils;\nBeside the lake, beneath the trees,\nFluttering and dancing in the breeze.",
+  "kind": "poem",
+  "fake": "I wandered forth with heart so light,\nBeneath the sky's resplendent blue,\nWhere golden fields stretched far in sight,\nReflecting nature's vibrant hue;\nThe gentle breeze did softly blow,\nWhispering secrets all in row.",
+  "tells": [
+   "rhyme scheme too regular (ABABCC)",
+   "imagery too generic and collected",
+   "phrasing overly smooth and polished"
+  ]
+ },
+ {
+  "slug": "poem-fog",
+  "title": "Fog",
+  "author": "Carl Sandburg",
+  "year": 1916,
+  "sourceUrl": "https://en.wikipedia.org/wiki/Fog_(poem)",
+  "tier": 1,
+  "text": "The fog comes\non little cat feet.\n\nIt sits looking\nover harbor and city\non silent haunches\nand then moves on.",
+  "kind": "poem",
+  "fake": "The fog arrives\non silent paws.\nIt pauses gazing\ncross bay and town\nupon quiet haunches\nand then drifts away.",
+  "tells": [
+   "too regular syllable count",
+   "predictable rhyme scheme",
+   "overly polished phrasing"
+  ]
+ },
+ {
+  "slug": "poem-to-autumn",
+  "title": "To Autumn (stanza I)",
+  "author": "John Keats",
+  "year": 1820,
+  "sourceUrl": "https://en.wikipedia.org/wiki/To_Autumn",
+  "tier": 2,
+  "text": "Season of mists and mellow fruitfulness,\nClose bosom-friend of the maturing sun;\nConspiring with him how to load and bless\nWith fruit the vines that round the thatch-eves run;\nTo bend with apples the moss’d cottage-trees,\nAnd fill all fruit with ripeness to the core;\nTo swell the gourd, and plump the hazel shells\nWith a sweet kernel; to set budding more,\nAnd still more, later flowers for the bees,\nUntil they think warm days will never cease,\nFor Summer has o’er-brimm’d their clammy cells.",
+  "kind": "poem",
+  "fake": "Season of gold and gentle yielding,\nClose companion of the autumn sun;\nConspiring with him how to grace and bless\nWith bounty all the vines that round the eves run;\nTo bow with pears the moss-covered trees,\nAnd fill each fruit with ripeness to the soul;\n To swell the gourd, and enrich the nut shells\nWith a sweet essence; to encourage more,\nAnd ever more, late blossoms for the bees,\nUntil they dream warm days will never end,\nFor Autumn has overflowed their honeyed homes.",
+  "tells": [
+   "too perfect ABAB rhyme pattern",
+   "overly organized parallel structure",
+   "forced alliteration in 'sweet essence'"
+  ]
+ },
+ {
+  "slug": "poem-ozymandias",
+  "title": "Ozymandias",
+  "author": "Percy Bysshe Shelley",
+  "year": 1818,
+  "sourceUrl": "https://en.wikipedia.org/wiki/Ozymandias",
+  "tier": 2,
+  "text": "I met a traveller from an antique land,\nWho said—“Two vast and trunkless legs of stone\nStand in the desert. . . . Near them, on the sand,\nHalf sunk a shattered visage lies, whose frown,\nAnd wrinkled lip, and sneer of cold command,\nTell that its sculptor well those passions read\nWhich yet survive, stamped on these lifeless things,\nThe hand that mocked them, and the heart that fed;",
+  "kind": "poem",
+  "fake": "I met a traveler from an ancient shore,\nWhose voice revealed a tale of times before.\nTwo colossal ruins, stark against the sky,\nWith fragments scattered where they used to lie.\nThe weathered features, stern and cold and grand,\nShowed artistry that master craftsmen's hand.\nThe passion that inspired such design,\nYet fades away like mist at morning's sign.",
+  "tells": [
+   "anachronistic phrase 'times before'",
+   "over-perfect ABAB CDCD rhyme scheme",
+   "unnatural closing simile 'like mist at morning's sign'"
+  ]
+ },
+ {
+  "slug": "poem-hope",
+  "title": "“Hope” is the thing with feathers",
+  "author": "Emily Dickinson",
+  "year": 1861,
+  "sourceUrl": "https://en.wikipedia.org/wiki/%22Hope%22_is_the_thing_with_feathers",
+  "tier": 2,
+  "text": "Hope is the thing with feathers —\nThat perches in the soul —\nAnd sings the tune without the words —\nAnd never stops — at all —\n\nAnd sweetest — in the Gale — is heard —\nAnd sore must be the storm —\nThat could abash the little Bird\nThat kept so many warm —",
+  "kind": "poem",
+  "fake": "Hope is the thing with wings —\nThat flutters in the heart —\nAnd sings the melody without the words —\nAnd never ceases — ever —\n\nAnd sweetest — in the Tempest — is heard —\nAnd bitter must be the gale —\nThat could silence the small Bird\nThat kept so many souls —",
+  "tells": [
+   "anachronistic use of 'wings' instead of Dickinson's 'feathers'",
+   "too-perfect alternating meter throughout",
+   "parallel structure in 'sweetest — in the Tempest — is heard' and 'bitter must be the gale'"
+  ]
+ },
+ {
+  "slug": "poem-annabel-lee",
+  "title": "Annabel Lee (stanzas I–II)",
+  "author": "Edgar Allan Poe",
+  "year": 1849,
+  "sourceUrl": "https://en.wikipedia.org/wiki/Annabel_Lee",
+  "tier": 3,
+  "text": "It was many and many a year ago,\n   In a kingdom by the sea,\nThat a maiden there lived whom you may know\n   By the name of Annabel Lee;\nAnd this maiden she lived with no other thought\n   Than to love and be loved by me.\n\nI was a child and she was a child,\n   In this kingdom by the sea,\nBut we loved with a love that was more than love —\n   I and my Annabel Lee —",
+  "kind": "poem",
+  "fake": "It was in the bleak December of my soul,\n   When the darkness held its sway,\nThat a spirit came to me, making me whole\n   And chased all my fears away;\nAnd this spirit it dwelt within my mind\n   With a love that would not die,\nAnd together we wandered, spirits entwined\n   Beneath a leaden sky.\nI know now that our bond shall never sever,\n   For death itself cannot divide us ever.",
+  "tells": [
+   "forced rhyme in 'soul/sway'",
+   "unnatural inversion in 'making me whole'",
+   "awkwardly modern phrasing in 'spirits entwined'"
+  ]
+ },
+ {
+  "slug": "poem-stopping-by-woods",
+  "title": "Stopping by Woods on a Snowy Evening (stanzas I–II)",
+  "author": "Robert Frost",
+  "year": 1923,
+  "sourceUrl": "https://en.wikipedia.org/wiki/Stopping_by_Woods_on_a_Snowy_Evening",
+  "tier": 3,
+  "text": "Whose woods these are I think I know.\nHis house is in the village though;\nHe will not see me stopping here\nTo watch his woods fill up with snow.\n\nMy little horse must think it queer\nTo stop without a farmhouse near\nBetween the woods and frozen lake\nThe darkest evening of the year.",
+  "kind": "poem",
+  "fake": "Whose field these are I believe I know.\nHis farm is just beyond the hill;\nHe won't notice me pausing here\nTo watch his fields fill up with frost.\n\nMy old mare must find it strange\nTo halt without a dwelling near\nBetween the fields and frozen pond\nThe coldest twilight of the year.",
+  "tells": [
+   "symmetrical couplet rhymes",
+   "overly consistent meter",
+   "unnatural parallel structure"
+  ]
+ },
+ {
+  "slug": "prov-stitch",
+  "title": "A stitch in time saves nine",
+  "author": "Traditional English proverb",
+  "year": 1732,
+  "sourceUrl": "https://en.wiktionary.org/wiki/a_stitch_in_time_saves_nine",
+  "tier": 1,
+  "text": "A stitch in time saves nine.",
+  "kind": "proverb",
+  "fake": "A timely stitch prevents future tears.",
+  "tells": [
+   "over-explains the metaphor",
+   "too grammatically structured",
+   "uncommonly precise wording"
+  ]
+ },
+ {
+  "slug": "prov-early-bird",
+  "title": "The early bird catches the worm",
+  "author": "Traditional English proverb",
+  "year": 1636,
+  "sourceUrl": "https://en.wiktionary.org/wiki/the_early_bird_gets_the_worm",
+  "tier": 1,
+  "text": "The early bird catches the worm.",
+  "kind": "proverb",
+  "fake": "The first riser harvests the dawn's reward.",
+  "tells": [
+   "dawn's reward too poetic",
+   "harvests too formal for proverb",
+   "riser too modern word choice"
+  ]
+ },
+ {
+  "slug": "prov-rolling-stone",
+  "title": "A rolling stone gathers no moss",
+  "author": "Traditional English proverb",
+  "year": 1546,
+  "sourceUrl": "https://en.wiktionary.org/wiki/a_rolling_stone_gathers_no_moss",
+  "tier": 2,
+  "text": "A rolling stone gathers no moss.",
+  "kind": "proverb",
+  "fake": "A rolling stone gathers no fortune.",
+  "tells": [
+   "modern word 'fortune' replaces traditional 'moss'",
+   "structure too perfectly mirrors real proverb",
+   "lacks historical attestation as authentic proverb"
+  ]
+ },
+ {
+  "slug": "prov-cooks",
+  "title": "Too many cooks spoil the broth",
+  "author": "Traditional English proverb",
+  "year": 1575,
+  "sourceUrl": "https://en.wiktionary.org/wiki/too_many_cooks_spoil_the_broth",
+  "tier": 2,
+  "text": "Too many cooks spoil the broth.",
+  "kind": "proverb",
+  "fake": "Too many hands make light work.",
+  "tells": [
+   "meaning contradicts genuine proverb",
+   "structure too symmetrical",
+   "not found in traditional proverb collections"
+  ]
+ },
+ {
+  "slug": "prov-rome",
+  "title": "When in Rome, do as the Romans do",
+  "author": "Traditional English proverb",
+  "year": 1770,
+  "sourceUrl": "https://en.wiktionary.org/wiki/when_in_Rome,_do_as_the_Romans_do",
+  "tier": 2,
+  "text": "When in Rome, do as the Romans do.",
+  "kind": "proverb",
+  "fake": "While in London, act like a Londoner.",
+  "tells": [
+   "geographic specificity",
+   "modern phrasing",
+   "unnatural parallelism"
+  ]
+ },
+ {
+  "slug": "prov-moss-oak",
+  "title": "Mighty oaks from little acorns grow",
+  "author": "Traditional English proverb",
+  "year": 1382,
+  "sourceUrl": "https://en.wiktionary.org/wiki/great_oaks_from_little_acorns_grow",
+  "tier": 3,
+  "text": "Mighty oaks from little acorns grow.",
+  "kind": "proverb",
+  "fake": "Small acorns bring mighty oaks to grow.",
+  "tells": [
+   "reversed word order from authentic proverb",
+   "unnatural redundancy 'bring...to grow'",
+   "modern phrasing structure"
+  ]
+ },
+ {
+  "slug": "prov-spade",
+  "title": "Call a spade a spade",
+  "author": "Traditional English proverb",
+  "year": 1542,
+  "sourceUrl": "https://en.wiktionary.org/wiki/call_a_spade_a_spade",
+  "tier": 3,
+  "text": "Call a spade a spade.",
+  "kind": "proverb",
+  "fake": "A rolling stone gathers no friends.",
+  "tells": [
+   "metaphor too direct",
+   "pattern too regular",
+   "not attested in proverb tradition"
+  ]
+ },
+ {
+  "slug": "prov-horn-plenty",
+  "title": "Empty sacks will never stand upright",
+  "author": "Traditional English proverb",
+  "year": 1721,
+  "sourceUrl": "https://en.wiktionary.org/wiki/an_empty_sack_cannot_stand_upright",
+  "tier": 3,
+  "text": "Empty sacks will never stand upright.",
+  "kind": "proverb",
+  "fake": "A full pot makes no noise in the house.",
+  "tells": [
+   "modern household reference",
+   "rhythm too perfect for irregular speech",
+   "metaphor lacks double meaning"
+  ]
+ },
+ {
+  "slug": "caption-ribblehead-viaduct",
+  "kind": "caption",
+  "title": "2015 Ribblehead Viaduct 1",
+  "author": "Kreuzschnabel",
+  "year": 2015,
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:2015_Ribblehead_Viaduct_1.jpg",
+  "text": "Ribblehead Viaduct , North Yorkshire, England, as seen from the north. In the distance is Pen-y-ghent .",
+  "tier": 2,
+  "subject": "2015 Ribblehead Viaduct 1",
+  "fake": "Ribblehead Viaduct in North Yorkshire, England, captured from a northern perspective with Pen-y-ghent visible in the background.",
+  "tells": [
+   "overly structured syntax",
+   "precise geographical formulation",
+   "slightly too perfect descriptive flow"
+  ]
+ },
+ {
+  "slug": "caption-horses-on-beach",
+  "kind": "caption",
+  "title": "Cavalos nas dunas de Jericoacora (edited)",
+  "author": "Original: Thiago Gomes Gonçalves Derivative work: Aristeas",
+  "year": 2015,
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:Cavalos_nas_dunas_de_Jericoacora_(edited).jpg",
+  "text": "Man drives horses along the Jericoacora coast near the dunes.",
+  "tier": 2,
+  "subject": "Cavalos nas dunas de Jericoacora (edited)",
+  "fake": "Horses trot along the scenic shoreline of Jericoacora beach with dunes in the background.",
+  "tells": [
+   "too scenic/beautiful",
+   "overly structured",
+   "slightly formal tone"
+  ]
+ },
+ {
+  "slug": "caption-snow-ruins-stars",
+  "kind": "caption",
+  "title": "2012-02-03 20-34-32-salbert-moonlight",
+  "author": "Thomas Bresson",
+  "year": 2015,
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:2012-02-03_20-34-32-salbert-moonlight.jpg",
+  "text": "Poste optique under snow near the fort du Salbert (under moonlight), at Belfort, France.",
+  "tier": 3,
+  "subject": "2012-02-03 20-34-32-salbert-moonlight",
+  "fake": "Optical post with snowy surroundings near the Salbert fortress under moonlight, Belfort, France, February 3, 2012.",
+  "tells": [
+   "excessive formal structure",
+   "unnatural specificity of date format",
+   "overly precise description"
+  ]
+ },
+ {
+  "slug": "caption-street-snack-seller",
+  "kind": "caption",
+  "title": "A bad sales day",
+  "author": "Wilfredor",
+  "year": 2015,
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:A_bad_sales_day.jpg",
+  "text": "A bad sales day — street salesman in downtown Maracaibo, Venezuela",
+  "tier": 1,
+  "subject": "A bad sales day",
+  "fake": "A street vendor experiences a slow sales day in downtown Maracaibo, Venezuela.",
+  "tells": [
+   "overly polished phrasing",
+   "generic imagery",
+   "unnaturally tidy rhythm"
+  ]
+ },
+ {
+  "slug": "caption-rufous-hornero-nest",
+  "kind": "caption",
+  "title": "Rufous hornero (Furnarius rufus) at nest Colonia",
+  "author": "Charles J. Sharp",
+  "year": 2015,
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:Rufous_hornero_(Furnarius_rufus)_at_nest_Colonia.jpg",
+  "text": "Rufous hornero ( Furnarius rufus ) at nest, Colonia, Uruguay",
+  "tier": 2,
+  "subject": "Rufous hornero (Furnarius rufus) at nest Colonia",
+  "fake": "Rufous hornero (Furnarius rufus) meticulously constructing its characteristic oven-shaped nest in Colonia, Uruguay.",
+  "tells": [
+   "overly descriptive with 'meticulously constructing'",
+   "uses 'characteristic oven-shaped' which is too explanatory",
+   "too perfectly structured sentence with natural flow"
+  ]
+ },
+ {
+  "slug": "caption-sperm-whale-mother-calf",
+  "kind": "caption",
+  "title": "Mother and baby sperm whale",
+  "author": "Gabriel Barathieu",
+  "year": 2015,
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:Mother_and_baby_sperm_whale.jpg",
+  "text": "A mother sperm whale and her calf off the coast of Mauritius. The calf has remoras attached to its body.",
+  "tier": 3,
+  "subject": "Mother and baby sperm whale",
+  "fake": "A mother sperm whale and her calf swim near the surface of the Indian Ocean off Mauritius coast, with small remoras attached to the calf's body.",
+  "tells": [
+   "overly precise geographic location",
+   "too smooth sentence structure",
+   "unnatural adjective choice 'small remoras'"
+  ]
+ }
+]

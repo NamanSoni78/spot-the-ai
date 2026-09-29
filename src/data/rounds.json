@@ -1,0 +1,2381 @@
+[
+ {
+  "id": "img-mountain-sunbeams",
+  "kind": "image",
+  "difficulty": 1,
+  "category": "Landscape",
+  "real": {
+   "url": "/content/real/mountain-sunbeams.jpg",
+   "title": "Amanhecer no Hercules --",
+   "description": "Rocks formations and the Dedo de Deus (God's Finger) peak in the background, at the Serra dos Órgãos National Park , Rio de Janeiro state , Brazil .",
+   "author": "Carlos Perez Couto",
+   "license": "CC BY-SA 3.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Amanhecer_no_Hercules_--.jpg",
+   "subject": "Landscape"
+  },
+  "fake": {
+   "url": "/content/fake/mountain-sunbeams.jpg",
+   "prompt": "Rocky mountain peaks with dramatic sunbeams breaking through storm clouds over a green valley",
+   "generator": "Pre-baked diffusion model",
+   "seed": null,
+   "tells": [
+    "physically impossible mountain ridge geometry",
+    "melted and nonsensical snow patch shapes",
+    "over-smooth plastic-like texture on grassy slopes"
+   ]
+  }
+ },
+ {
+  "id": "img-autumn-mountain-slopes",
+  "kind": "image",
+  "difficulty": 2,
+  "category": "Landscape",
+  "real": {
+   "url": "/content/real/autumn-mountain-slopes.webp",
+   "title": "2019 - Parc national des Pyrenees - Vallée de Gavarnie",
+   "description": "The Pyrénées National Park, view on the Gavarnie valley, Hautes-Pyrénées, France.",
+   "author": "Moahim",
+   "license": "CC BY-SA 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:2019_-_Parc_national_des_Pyrenees_-_Vall%C3%A9e_de_Gavarnie.jpg",
+   "subject": "Landscape"
+  },
+  "fake": {
+   "url": "/content/fake/autumn-mountain-slopes.webp",
+   "prompt": "Steep rocky mountain slopes with golden autumn shrubs in warm afternoon light",
+   "generator": "Pre-baked diffusion model",
+   "seed": null,
+   "tells": [
+    "repetitive, non-branching texture of the vegetation",
+    "physically impossible, melted rock formations and ridges",
+    "inconsistent and illogical shadow patterns across the terrain"
+   ]
+  }
+ },
+ {
+  "id": "img-station-clock-bw",
+  "kind": "image",
+  "difficulty": 3,
+  "category": "Architecture",
+  "real": {
+   "url": "/content/real/station-clock-bw.webp",
+   "title": "Antwerp Central Station full size",
+   "description": "Antwerp Central station in Belgium. It was taken with a Pentax K20D.",
+   "author": "Laurent-Jonathan Meyvaert",
+   "license": "CC BY-SA 3.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Antwerp_Central_Station_full_size.jpg",
+   "subject": "Architecture"
+  },
+  "fake": {
+   "url": "/content/fake/station-clock-bw.jpg",
+   "prompt": "Black and white photograph of an ornate station clock beneath a curved glass train shed roof",
+   "generator": "Pre-baked diffusion model",
+   "seed": null,
+   "tells": [
+    "garbled and nonsensical Roman numerals on clock face",
+    "repetitive, melting decorative scrollwork on the arch",
+    "impossible grid geometry of the window panes"
+   ]
+  }
+ },
+ {
+  "id": "img-rho-ophiuchi",
+  "kind": "image",
+  "difficulty": 1,
+  "category": "Space",
+  "real": {
+   "url": "/content/real/rho-ophiuchi.webp",
+   "title": "Carina Nebula",
+   "description": "This broad panorama of the Carina Nebula, a region of massive star formation in the southern skies, was taken in infrared light using the HAWK-I camera on ESO’s Very Large Telescope. Many previously hidden features, scattered across a spectacular celestial landscape of gas, dust and young stars, have emerged. Some of these features have been annotated in Commons . Trumpler 16 (annotated) is an open cluster that contains the luminous, massive blue variable Eta Carinae, one of the brightest stars",
+   "author": "ESO/T. Preibisch",
+   "license": "CC BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Carina_Nebula.jpg",
+   "subject": "Space"
+  },
+  "fake": {
+   "url": "/content/fake/rho-ophiuchi.jpg",
+   "prompt": "The Rho Ophiuchi cloud complex, a colorful red and blue nebula region with dense star field, deep space telescope photograph",
+   "generator": "Pre-baked diffusion model",
+   "seed": null,
+   "tells": [
+    "nebula structure has melted, vein-like texture instead of gas clouds",
+    "stars are unnaturally uniform in size and distribution",
+    "overall too clean and idealized with no sensor noise or artifacts"
+   ]
+  }
+ },
+ {
+  "id": "img-sunrise-ridges",
+  "kind": "image",
+  "difficulty": 1,
+  "category": "Landscape",
+  "real": {
+   "url": "/content/real/sunrise-ridges.jpg",
+   "title": "Bieszczady - sunrise from Chatka Puchatka (2)",
+   "description": "Bieszczady - mountains in Poland. Sunrises from the Chatka Puchatka hostel",
+   "author": "Pudelek",
+   "license": "CC BY-SA 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bieszczady_-_sunrise_from_Chatka_Puchatka_(2).jpg",
+   "subject": "Landscape"
+  },
+  "fake": {
+   "url": "/content/fake/sunrise-ridges.jpg",
+   "prompt": "Rolling hills and mountain ridges at golden sunrise with soft mist in the valleys",
+   "generator": "Pre-baked diffusion model",
+   "seed": null,
+   "tells": [
+    "impossible mist geometry floating above valleys without source",
+    "over-smooth, plastic-like texture on mountain slopes",
+    "nonsensical, melting stream in the lower left valley"
+   ]
+  }
+ },
+ {
+  "id": "img-desert-rock-formations",
+  "kind": "image",
+  "difficulty": 2,
+  "category": "Landscape",
+  "real": {
+   "url": "/content/real/desert-rock-formations.jpg",
+   "title": "Anfiteatro, Valle de la Luna, San Pedro de Atacama, Chile, 2016-02-01, DD 149",
+   "description": "View of \"the Amfitheater\", a rock formation in Valle de la Luna (in Spanish \"Moon Valley\") during the golden hour, Atacama Desert , Chile. Valle de la Luna is a part of the Reserva Nacional los Flamencos and was declared a Nature Sanctuary in 1982 for its great natural beauty and strange lunar landscape, from which its name is derived.",
+   "author": "Diego Delso",
+   "license": "CC BY-SA 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Anfiteatro,_Valle_de_la_Luna,_San_Pedro_de_Atacama,_Chile,_2016-02-01,_DD_149.JPG",
+   "subject": "Landscape"
+  },
+  "fake": {
+   "url": "/content/fake/desert-rock-formations.jpg",
+   "prompt": "Eroded red rock formations and cliffs in a desert landscape under a clear sky",
+   "generator": "Pre-baked diffusion model",
+   "seed": null,
+   "tells": [
+    "nonsensical vertical rock ridges on cliff face",
+    "inconsistent and illogical shadow directions",
+    "garbled and repetitive desert shrub textures"
+   ]
+  }
+ },
+ {
+  "id": "img-wheat-fields",
+  "kind": "image",
+  "difficulty": 1,
+  "category": "Landscape",
+  "real": {
+   "url": "/content/real/wheat-fields.jpg",
+   "title": "Blond and green rice fields",
+   "description": "Path in the countryside with trees and paddy fields, of blond color with cut rice on the left, and still green on the right, during the harvest of October 2017 in Don Det, Si Phan Don, Laos.",
+   "author": "Basile Morin",
+   "license": "CC BY-SA 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Blond_and_green_rice_fields.jpg",
+   "subject": "Landscape"
+  },
+  "fake": {
+   "url": "/content/fake/wheat-fields.jpg",
+   "prompt": "Golden and green patchwork farm fields with scattered trees under a summer sky",
+   "generator": "Pre-baked diffusion model",
+   "seed": null,
+   "tells": [
+    "wheat stalks melt into a uniform textureless mass",
+    "green plants in foreground have indistinct, fused leaves",
+    "distant background landscape is overly smooth and dreamy"
+   ]
+  }
+ },
+ {
+  "id": "img-baobab-savanna",
+  "kind": "image",
+  "difficulty": 1,
+  "category": "Landscape",
+  "real": {
+   "url": "/content/real/baobab-savanna.jpg",
+   "title": "Baobab (Adansonia digitata), parque nacional Makgadikgadi Pans, Botsuana, 2018-07-30, DD 03-08 PAN",
+   "description": "Baobab ( Adansonia digitata ) in a typical landscape of the Makgadikgadi Pans National Park, Botswana .",
+   "author": "Diego Delso",
+   "license": "CC BY-SA 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Baobab_(Adansonia_digitata),_parque_nacional_Makgadikgadi_Pans,_Botsuana,_2018-07-30,_DD_03-08_PAN.jpg",
+   "subject": "Landscape"
+  },
+  "fake": {
+   "url": "/content/fake/baobab-savanna.jpg",
+   "prompt": "A giant baobab tree standing alone in African savanna grassland at golden hour",
+   "generator": "Pre-baked diffusion model",
+   "seed": null,
+   "tells": [
+    "impossible branching geometry with fused and floating twigs",
+    "nonsensical dark blobs in the distant background",
+    "over-smooth, plastic-like texture on the tree trunk"
+   ]
+  }
+ },
+ {
+  "id": "img-aurora-star-trails",
+  "kind": "image",
+  "difficulty": 3,
+  "category": "Space",
+  "real": {
+   "url": "/content/real/aurora-star-trails.jpg",
+   "title": "Aurora and perseids",
+   "description": "Aurora and perseids seen at the beach of Norderney, Germany. The image is a composite of 64 individual exposures of meteors, one of these images was used as a background. The frames were taken in the night from 12 to 13 August 2024 with shooting stars from 23:20 to 03:27 (CEST), the background image was taken at 02:26. The position of the shooting stars in the sky was not changed, as no star tracker was used, the tracks do not point exactly to one point in the sky as the radiant of the meteor sh",
+   "author": "Stephan Sprinz",
+   "license": "CC BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Aurora_and_perseids.jpg",
+   "subject": "Space"
+  },
+  "fake": {
+   "url": "/content/fake/aurora-star-trails.jpg",
+   "prompt": "Green aurora borealis and circumpolar star trails over a dark rocky coastline",
+   "generator": "Pre-baked diffusion model",
+   "seed": null,
+   "tells": [
+    "stars are static points instead of circumpolar trails",
+    "rocks in the foreground are unnaturally smooth and uniform",
+    "aurora reflections on water lack physical coherence"
+   ]
+  }
+ },
+ {
+  "id": "img-comet-neowise",
+  "kind": "image",
+  "difficulty": 2,
+  "category": "Space",
+  "real": {
+   "url": "/content/real/comet-neowise.jpg",
+   "title": "Comet-Hale-Bopp-29-03-1997 hires adj",
+   "description": "Photo of the comet Hale-Bopp above a tree. This picture was taken in the vicinity of Pazin in Istria/Croatia during a short easter holiday. The tree was illuminated using a small flashlight. To the lower right of the comet the Andromeda Galaxy M31 is also faintly visible.",
+   "author": "Philipp Salzgeber",
+   "license": "CC BY-SA 2.0 at",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/at/deed.en",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Comet-Hale-Bopp-29-03-1997_hires_adj.jpg",
+   "subject": "Space"
+  },
+  "fake": {
+   "url": "/content/fake/comet-neowise.jpg",
+   "prompt": "A bright comet with a glowing twin tail above a silhouetted tree at twilight",
+   "generator": "Pre-baked diffusion model",
+   "seed": null,
+   "tells": [
+    "comet has only one tail instead of the requested twin tails",
+    "tree branches show impossible looping and fused geometry",
+    "background treeline consists of melted, nonsensical shapes"
+   ]
+  }
+ },
+ {
+  "id": "img-crab-nebula",
+  "kind": "image",
+  "difficulty": 1,
+  "category": "Space",
+  "real": {
+   "url": "/content/real/crab-nebula.webp",
+   "title": "Crab Nebula",
+   "description": "This is a mosaic image, one of the largest ever taken by NASA's Hubble Space Telescope, of the Crab Nebula , a six-light-year-wide expanding remnant of a star's supernova explosion. Japanese and Chinese astronomers recorded this violent event in 1054 CE. The orange filaments are the tattered remains of the star and consist mostly of hydrogen. The rapidly spinning neutron star embedded in the center of the nebula is the dynamo powering the nebula's eerie interior bluish glow. The blue light comes",
+   "author": "NASA , ESA , J. Hester and A. Loll (Arizona State University)",
+   "license": "Public domain",
+   "licenseUrl": "",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Crab_Nebula.jpg",
+   "subject": "Space"
+  },
+  "fake": {
+   "url": "/content/fake/crab-nebula.jpg",
+   "prompt": "The Crab Nebula supernova remnant, wisps of red and blue gas, deep space telescope photograph",
+   "generator": "Pre-baked diffusion model",
+   "seed": null,
+   "tells": [
+    "symmetrical spiral structure instead of chaotic filaments",
+    "central star lacks realistic diffraction spikes or glare",
+    "gas clouds have a smooth, painted texture lacking fine detail"
+   ]
+  }
+ },
+ {
+  "id": "img-grassland-road-sunset",
+  "kind": "image",
+  "difficulty": 2,
+  "category": "Landscape",
+  "real": {
+   "url": "/content/real/grassland-road-sunset.jpg",
+   "title": "Crepuscular rays at Sunset near Waterberg Plateau",
+   "description": "Crepuscular rays at sunset near Waterberg Plateau (Wabi Game Ranch) in Namibia.",
+   "author": "Alchemist-hp ( www.pse-mendelejew.de )",
+   "license": "FAL",
+   "licenseUrl": "http://artlibre.org/licence/lal/en",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Crepuscular_rays_at_Sunset_near_Waterberg_Plateau.jpg",
+   "subject": "Landscape"
+  },
+  "fake": {
+   "url": "/content/fake/grassland-road-sunset.jpg",
+   "prompt": "A dirt track winding through golden grassland toward a low sun at sunset",
+   "generator": "Pre-baked diffusion model",
+   "seed": null,
+   "tells": [
+    "grass texture is a repetitive, smeared pattern",
+    "road surface lacks realistic tire ruts or depth",
+    "horizon line is unnaturally flat and perfect"
+   ]
+  }
+ },
+ {
+  "id": "img-astronomical-clock",
+  "kind": "image",
+  "difficulty": 3,
+  "category": "Architecture",
+  "real": {
+   "url": "/content/real/astronomical-clock.webp",
+   "title": "Czech-2013-Prague-Astronomical clock face",
+   "description": "This is a photo of a cultural monument of the Czech Republic , number:",
+   "author": "Godot13",
+   "license": "CC BY-SA 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Czech-2013-Prague-Astronomical_clock_face.jpg",
+   "subject": "Architecture"
+  },
+  "fake": {
+   "url": "/content/fake/astronomical-clock.jpg",
+   "prompt": "Close-up of a medieval astronomical clock dial with golden zodiac figures and painted details",
+   "generator": "Pre-baked diffusion model",
+   "seed": null,
+   "tells": [
+    "garbled and invented text on the outer rings",
+    "zodiac figures with melted or fused anatomy",
+    "physically impossible overlapping clock hands"
+   ]
+  }
+ },
+ {
+  "id": "img-volcano-salt-flat",
+  "kind": "image",
+  "difficulty": 1,
+  "category": "Landscape",
+  "real": {
+   "url": "/content/real/volcano-salt-flat.jpg",
+   "title": "Desierto de Dalí, Bolivia, 2016-02-02, DD 107",
+   "description": "The Salvador Dalí Desert is located in the Eduardo Avaroa Andean Fauna National Reserve , Potosí Department , southwestern Bolivia . The place is called like this because similar landscapes have been painted by Salvador Dalí , although he was never there or knew about it.",
+   "author": "Diego Delso",
+   "license": "CC BY-SA 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Desierto_de_Dal%C3%AD,_Bolivia,_2016-02-02,_DD_107.JPG",
+   "subject": "Landscape"
+  },
+  "fake": {
+   "url": "/content/fake/volcano-salt-flat.jpg",
+   "prompt": "A symmetrical volcanic cone rising from a vast white salt flat under blue sky",
+   "generator": "Pre-baked diffusion model",
+   "seed": null,
+   "tells": [
+    "impossible radial erosion patterns on the cone",
+    "garbled and melted structures along the shoreline",
+    "repetitive, non-geometric texture on the salt flat"
+   ]
+  }
+ },
+ {
+  "id": "img-dead-tree-clay-pan",
+  "kind": "image",
+  "difficulty": 3,
+  "category": "Landscape",
+  "real": {
+   "url": "/content/real/dead-tree-clay-pan.jpg",
+   "title": "Dead Vlei, Sossusvlei, Namibia, 2018-08-06, DD 086",
+   "description": "Dead camel thorn ( Vachellia erioloba ), Deadvlei , Namib-Naukluft Park , Namibia .",
+   "author": "Diego Delso",
+   "license": "CC BY-SA 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Dead_Vlei,_Sossusvlei,_Namibia,_2018-08-06,_DD_086.jpg",
+   "subject": "Landscape"
+  },
+  "fake": {
+   "url": "/content/fake/dead-tree-clay-pan.jpg",
+   "prompt": "A dead black tree on a cracked orange clay pan beneath tall orange sand dunes",
+   "generator": "Pre-baked diffusion model",
+   "seed": null,
+   "tells": [
+    "tree branches have impossible fused geometry at the joints",
+    "shadows on the ground lack coherent direction and depth",
+    "distant background vegetation appears as indistinct blurry blobs"
+   ]
+  }
+ },
+ {
+  "id": "img-perseid-meteor",
+  "kind": "image",
+  "difficulty": 2,
+  "category": "Space",
+  "real": {
+   "url": "/content/real/perseid-meteor.jpg",
+   "title": "Comet Tsuchinshan–ATLAS, in the night sky over Tuntorp 3",
+   "description": "Comet C-2023 A3, Tsuchinshan–ATLAS, in the night sky over Tuntorp, Brastad, Lysekil Municipality, Sweden. The trees were illuminated by a waxing crescent moon rising to the left and streetlights below the hill. To the left are the towers of Preemraff oil refinery.",
+   "author": "W.carter",
+   "license": "CC BY-SA 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Comet_Tsuchinshan%E2%80%93ATLAS,_in_the_night_sky_over_Tuntorp_3.jpg",
+   "subject": "Space"
+  },
+  "fake": {
+   "url": "/content/fake/perseid-meteor.jpg",
+   "prompt": "A bright Perseid meteor streaking across a starry night sky above a dark horizon",
+   "generator": "Pre-baked diffusion model",
+   "seed": null,
+   "tells": [
+    "nonsensical vertical light streaks in the water reflection",
+    "impossible geometry of the jagged horizon silhouette",
+    "over-smooth, dreamy rendering of the galactic core"
+   ]
+  }
+ },
+ {
+  "id": "img-alhambra-courtyard",
+  "kind": "image",
+  "difficulty": 2,
+  "category": "Architecture",
+  "real": {
+   "url": "/content/real/alhambra-courtyard.webp",
+   "title": "Patio de los Arrayanes detail Alhambra Granada Spain",
+   "description": "Patio de los Arrayanes ( Court of the Myrtles ), detail, Alhambra, Granada, Spain.",
+   "author": "Jebulon",
+   "license": "CC0",
+   "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Patio_de_los_Arrayanes_detail_Alhambra_Granada_Spain.jpg",
+   "subject": "Architecture"
+  },
+  "fake": {
+   "url": "/content/fake/alhambra-courtyard.webp",
+   "prompt": "The ornate courtyard of a Moorish palace with a long reflecting pool and carved walls",
+   "generator": "Pre-baked diffusion model",
+   "seed": null,
+   "tells": [
+    "garbled and nonsensical geometric patterns on the carved walls",
+    "physically impossible and inconsistent architectural arches",
+    "over-smooth, plastic-like texture on the water surface"
+   ]
+  }
+ },
+ {
+  "id": "img-infinity-pool-pavilion",
+  "kind": "image",
+  "difficulty": 1,
+  "category": "Architecture",
+  "real": {
+   "url": "/content/real/infinity-pool-pavilion.jpg",
+   "title": "Infinity Edge Pool, Mauritius",
+   "description": "Infinity edge pool in a luxury resort, Mauritius",
+   "author": "Martin Falbisoner",
+   "license": "CC BY-SA 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Infinity_Edge_Pool,_Mauritius.JPG",
+   "subject": "Architecture"
+  },
+  "fake": {
+   "url": "/content/fake/infinity-pool-pavilion.jpg",
+   "prompt": "A thatched-roof pavilion at the edge of a turquoise infinity pool at a tropical resort",
+   "generator": "Pre-baked diffusion model",
+   "seed": null,
+   "tells": [
+    "garbled wooden railing geometry and fused joints",
+    "impossible shadow directions on the deck",
+    "over-smooth plastic-like water texture"
+   ]
+  }
+ },
+ {
+  "id": "img-alhambra-arcade",
+  "kind": "image",
+  "difficulty": 2,
+  "category": "Architecture",
+  "real": {
+   "url": "/content/real/alhambra-arcade.webp",
+   "title": "Kimono Forest at night, Arashiyama Station, Arashiyama, Kyoto, Japan",
+   "description": "The \"Kimono Forest\" at night, a collection of nearly 600 kimono gowns wrapped around and sealed in poles with LED lighting inside, Arashiyama Station (Keifuku) , Arashiyama , Kyoto , Japan , decoration project developed by the designer Yasumichi Morita , CEO of GLAMOROUS co., ltd. The \"Kimono Forest\" consists of pieces of textile dyed in the Kyo-yuzen style, covered and sealed with acrylic fiber and shaped like 2-meter tall cylindrical poles installed around the station and the railway tracks.",
+   "author": "Yasumichi Morita (designer) Basile Morin (photographer)",
+   "license": "CC BY-SA 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Kimono_Forest_at_night,_Arashiyama_Station,_Arashiyama,_Kyoto,_Japan.jpg",
+   "subject": "Architecture"
+  },
+  "fake": {
+   "url": "/content/fake/alhambra-arcade.jpg",
+   "prompt": "A long arcade corridor with slender patterned columns and arches in a Moorish palace",
+   "generator": "Pre-baked diffusion model",
+   "seed": null,
+   "tells": [
+    "garbled and nonsensical geometric patterns in the upper arches",
+    "physically impossible fused column clusters on the left",
+    "overly smooth, plastic-like texture of the stone carvings"
+   ]
+  }
+ },
+ {
+  "id": "img-pink-meadow-flower",
+  "kind": "image",
+  "difficulty": 1,
+  "category": "Macro Nature",
+  "real": {
+   "url": "/content/real/pink-meadow-flower.jpg",
+   "title": "Bloem van een Geranium palustre. 03-07-2021 (actm.)",
+   "description": "Flower of an Geranium palustre. Focus stack of 32 photos.",
+   "author": "Agnes Monkelbaan",
+   "license": "CC BY-SA 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bloem_van_een_Geranium_palustre._03-07-2021_(actm.).jpg",
+   "subject": "Macro Nature"
+  },
+  "fake": {
+   "url": "/content/fake/pink-meadow-flower.jpg",
+   "prompt": "A bright pink five-petaled meadow flower against a blurred green background",
+   "generator": "Pre-baked diffusion model",
+   "seed": null,
+   "tells": [
+    "flower has six petals instead of the requested five",
+    "stamen center is a fused, indistinct orange mass",
+    "petal texture is unnaturally smooth and plastic-like"
+   ]
+  }
+ },
+ {
+  "id": "img-stump-texture-bw",
+  "kind": "image",
+  "difficulty": 3,
+  "category": "Macro Nature",
+  "real": {
+   "url": "/content/real/stump-texture-bw.webp",
+   "title": "Abstract pattern on a tree stump",
+   "description": "Abstract pattern on a tree stump",
+   "author": "Maksim Sokolov (Maxergon)",
+   "license": "CC BY-SA 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Abstract_pattern_on_a_tree_stump.jpg",
+   "subject": "Macro Nature"
+  },
+  "fake": {
+   "url": "/content/fake/stump-texture-bw.jpg",
+   "prompt": "Black and white close-up of the cracked weathered texture of a tree stump",
+   "generator": "Pre-baked diffusion model",
+   "seed": null,
+   "tells": [
+    "growth rings do not follow a consistent circular path",
+    "bark texture consists of repetitive vertical ridges lacking natural variation",
+    "cracks on the surface terminate or merge without logical cause"
+   ]
+  }
+ },
+ {
+  "id": "img-mossy-bracket-fungus",
+  "kind": "image",
+  "difficulty": 3,
+  "category": "Macro Nature",
+  "real": {
+   "url": "/content/real/mossy-bracket-fungus.webp",
+   "title": "Ademwortel (pneumatoforen) van een moerascipres (Taxodium distichum) 18-03-2024 (d.j.b.)",
+   "description": "This young breath root (pneumatophores) grows 4 meters from the trunk of a bald cypress ( Taxodium distichum ) above the wet ground. Focus stack of 15 photos.",
+   "author": "Dominicus Johannes Bergsma",
+   "license": "CC BY-SA 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ademwortel_(pneumatoforen)_van_een_moerascipres_(Taxodium_distichum)_18-03-2024_(d.j.b.).jpg",
+   "subject": "Macro Nature"
+  },
+  "fake": {
+   "url": "/content/fake/mossy-bracket-fungus.jpg",
+   "prompt": "A red shelf fungus covered in green moss growing on a fallen branch",
+   "generator": "Pre-baked diffusion model",
+   "seed": null,
+   "tells": [
+    "mushrooms have impossible fused and overlapping geometry",
+    "moss texture is a repetitive smeared pattern",
+    "background foliage is an indistinct blurry mess"
+   ]
+  }
+ },
+ {
+  "id": "img-round-leaved-plant",
+  "kind": "image",
+  "difficulty": 2,
+  "category": "Macro Nature",
+  "real": {
+   "url": "/content/real/round-leaved-plant.webp",
+   "title": "Cyclamen coum in december 25-12-2024. (d.j.b)",
+   "description": "Soaked in rain Cyclamen coum sown between the roots of an Alder ( Alnus ) Focus stack of 10 photos.",
+   "author": "Famberhorst",
+   "license": "CC BY-SA 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Cyclamen_coum_in_december_25-12-2024._(d.j.b).jpg",
+   "subject": "Macro Nature"
+  },
+  "fake": {
+   "url": "/content/fake/round-leaved-plant.jpg",
+   "prompt": "A small green plant with round leaves growing on forest leaf litter",
+   "generator": "Pre-baked diffusion model",
+   "seed": null,
+   "tells": [
+    "leaves are oval/pointed instead of round as prompted",
+    "leaf litter contains fused and shapeless organic debris",
+    "plant stem lacks realistic texture and root structure"
+   ]
+  }
+ },
+ {
+  "id": "img-dog-rose",
+  "kind": "image",
+  "difficulty": 1,
+  "category": "Macro Nature",
+  "real": {
+   "url": "/content/real/dog-rose.jpg",
+   "title": "Bloem van een Rosa canina 01-06-2026. (actm.)",
+   "description": "Flower of a Rosa canina . Focus stack of 16 photos.",
+   "author": "Agnes Monkelbaan",
+   "license": "CC BY-SA 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bloem_van_een_Rosa_canina_01-06-2026._(actm.).jpg",
+   "subject": "Macro Nature"
+  },
+  "fake": {
+   "url": "/content/fake/dog-rose.jpg",
+   "prompt": "A pink wild rose flower in full bloom against a soft green background",
+   "generator": "Pre-baked diffusion model",
+   "seed": null,
+   "tells": [
+    "impossible petal geometry in the center",
+    "over-smooth plastic-like petal texture",
+    "nonsensical background leaf shapes"
+   ]
+  }
+ },
+ {
+  "id": "img-fly-agaric",
+  "kind": "image",
+  "difficulty": 2,
+  "category": "Macro Nature",
+  "real": {
+   "url": "/content/real/fly-agaric.jpg",
+   "title": "Fly Agaric mushroom 04",
+   "description": "Fly Agaric mushroom growing under a stand of Pinus radiata trees, Wellington, New Zealand.",
+   "author": "Tony Wills",
+   "license": "CC BY-SA 3.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Fly_Agaric_mushroom_04.jpg",
+   "subject": "Macro Nature"
+  },
+  "fake": {
+   "url": "/content/fake/fly-agaric.jpg",
+   "prompt": "A red fly agaric mushroom with white spots growing in green moss",
+   "generator": "Pre-baked diffusion model",
+   "seed": null,
+   "tells": [
+    "mushroom gills are fused into a solid ring",
+    "white spots are uniform and lack texture",
+    "background leaves are melted and nonsensical"
+   ]
+  }
+ },
+ {
+  "id": "img-mushroom-basket",
+  "kind": "image",
+  "difficulty": 3,
+  "category": "Macro Nature",
+  "real": {
+   "url": "/content/real/mushroom-basket.webp",
+   "title": "Edible fungi in basket 2012 G1",
+   "description": "Picked edible fungi in basket. Cep ( Boletus edulis , Boletus reticulatus ), and Iodine bolete ( Boletus impolitus ). Trophies of a mushroom hunt. Ukraine.",
+   "author": "George Chernilevsky",
+   "license": "Public domain",
+   "licenseUrl": "",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Edible_fungi_in_basket_2012_G1.jpg",
+   "subject": "Macro Nature"
+  },
+  "fake": {
+   "url": "/content/fake/mushroom-basket.jpg",
+   "prompt": "A wicker basket full of freshly foraged wild mushrooms resting on grass in a forest",
+   "generator": "Pre-baked diffusion model",
+   "seed": null,
+   "tells": [
+    "mushroom stems fused into a single tangled mass",
+    "wicker handle merges seamlessly into basket rim",
+    "background foliage lacks distinct botanical detail"
+   ]
+  }
+ },
+ {
+  "id": "img-yellow-jelly-fungus",
+  "kind": "image",
+  "difficulty": 1,
+  "category": "Macro Nature",
+  "real": {
+   "url": "/content/real/yellow-jelly-fungus.jpg",
+   "title": "Gele trilzwam (Tremella mesenterica). (d.j.b.) 04",
+   "description": "Yellow vibratory mushroom ( Tremella mesenterica ). Drenched mushroom on a dead branch between fallen leaves.",
+   "author": "Dominicus Johannes Bergsma",
+   "license": "CC BY-SA 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gele_trilzwam_(Tremella_mesenterica)._(d.j.b.)_04.jpg",
+   "subject": "Macro Nature"
+  },
+  "fake": {
+   "url": "/content/fake/yellow-jelly-fungus.jpg",
+   "prompt": "Clusters of bright yellow jelly fungi growing on a mossy decaying log in a forest",
+   "generator": "Pre-baked diffusion model",
+   "seed": null,
+   "tells": [
+    "fused and overlapping fungal spheres with no clear attachment points",
+    "moss texture appears as repetitive, plastic-like tufts",
+    "background trees are indistinct, dreamy smudges lacking bark detail"
+   ]
+  }
+ },
+ {
+  "id": "img-earthstar-fungus",
+  "kind": "image",
+  "difficulty": 2,
+  "category": "Macro Nature",
+  "real": {
+   "url": "/content/real/earthstar-fungus.webp",
+   "title": "Gekraagde aardster (Geastrum triplex) 09-10-2022. (d.j.b) 01",
+   "description": "Ripe Collared earthstar ( Geastrum triplex ). Location, De Famberhorst. Focus stack of 18 photos.",
+   "author": "Dominicus Johannes Bergsma",
+   "license": "CC BY-SA 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gekraagde_aardster_(Geastrum_triplex)_09-10-2022._(d.j.b)_01.jpg",
+   "subject": "Macro Nature"
+  },
+  "fake": {
+   "url": "/content/fake/earthstar-fungus.jpg",
+   "prompt": "A star-shaped earthstar fungus opened on brown forest leaf litter",
+   "generator": "Pre-baked diffusion model",
+   "seed": null,
+   "tells": [
+    "impossible thick-walled bowl-like fungal geometry",
+    "background leaves are melted and lack clear veins",
+    "nonsensical dark spots and texture on the fungus surface"
+   ]
+  }
+ },
+ {
+  "id": "img-orange-bracket-fungus",
+  "kind": "image",
+  "difficulty": 1,
+  "category": "Macro Nature",
+  "real": {
+   "url": "/content/real/orange-bracket-fungus.webp",
+   "title": "Grote sponszwam (Sparassis crispa). 09-11-2023. (d.j.b)",
+   "description": "Sparassis crispa in natural habitat . Focus stack of 20 photos.",
+   "author": "Dominicus Johannes Bergsma",
+   "license": "CC0",
+   "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Grote_sponszwam_(Sparassis_crispa)._09-11-2023._(d.j.b).jpg",
+   "subject": "Macro Nature"
+  },
+  "fake": {
+   "url": "/content/fake/orange-bracket-fungus.jpg",
+   "prompt": "A large orange and yellow bracket fungus growing on a shaded forest floor",
+   "generator": "Pre-baked diffusion model",
+   "seed": null,
+   "tells": [
+    "impossible concentric ring pattern on fungus cap",
+    "fused and indistinct wood grain on the stump base",
+    "overly smooth, plastic-like texture of the mushroom surface"
+   ]
+  }
+ },
+ {
+  "id": "img-amsterdam-canal",
+  "kind": "image",
+  "difficulty": 3,
+  "category": "Cityscapes",
+  "real": {
+   "url": "/content/real/amsterdam-canal.jpg",
+   "title": "Amsterdam Canals - July 2006",
+   "description": "A panorama of 4 segments of an Amsterdam Canal in summer.",
+   "author": "Diliff",
+   "license": "CC BY 2.5",
+   "licenseUrl": "https://creativecommons.org/licenses/by/2.5",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Amsterdam_Canals_-_July_2006.jpg",
+   "subject": "Cityscapes"
+  },
+  "fake": {
+   "url": "/content/fake/amsterdam-canal.webp",
+   "prompt": "An Amsterdam canal lined with elm trees and houseboats moored at the quay",
+   "generator": "Pre-baked diffusion model",
+   "seed": null,
+   "tells": [
+    "garbled and nonsensical bicycle shapes on the left quay",
+    "fused or melting boat hulls in the middle distance",
+    "impossible window geometry and inconsistent architectural details on buildings"
+   ]
+  }
+ },
+ {
+  "id": "img-cliffside-village",
+  "kind": "image",
+  "difficulty": 2,
+  "category": "Cityscapes",
+  "real": {
+   "url": "/content/real/cliffside-village.jpg",
+   "title": "Atrani (Costiera Amalfitana, 23-8-2011)",
+   "description": "Atrani , on the Amalfi Coast near Naples in Southern Italy . World Heritage Site since 1997.",
+   "author": "Paolo Costa Baldi",
+   "license": "CC BY 3.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Atrani_(Costiera_Amalfitana,_23-8-2011).jpg",
+   "subject": "Cityscapes"
+  },
+  "fake": {
+   "url": "/content/fake/cliffside-village.jpg",
+   "prompt": "A colorful cliffside Mediterranean coastal village overlooking a blue sea",
+   "generator": "Pre-baked diffusion model",
+   "seed": null,
+   "tells": [
+    "impossible building geometry with fused and overlapping structures",
+    "garbled and nonsensical architectural details on the bridge and facades",
+    "melted, plastic-like texture of the rocky cliffs"
+   ]
+  }
+ },
+ {
+  "id": "img-waterfront-canal-houses",
+  "kind": "image",
+  "difficulty": 2,
+  "category": "Cityscapes",
+  "real": {
+   "url": "/content/real/waterfront-canal-houses.jpg",
+   "title": "2018 - Nyhavn on sunset",
+   "description": "in the Heritage Agency of Denmark database for Listed Buildings.",
+   "author": "Moahim",
+   "license": "CC BY-SA 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:2018_-_Nyhavn_on_sunset.jpg",
+   "subject": "Cityscapes"
+  },
+  "fake": {
+   "url": "/content/fake/waterfront-canal-houses.jpg",
+   "prompt": "Colorful historic gabled houses along a waterfront canal with moored boats",
+   "generator": "Pre-baked diffusion model",
+   "seed": null,
+   "tells": [
+    "garbled and illegible text on building facades",
+    "melted or fused bicycles parked on the sidewalk",
+    "impossible geometry in the foreground boat's wooden planks"
+   ]
+  }
+ },
+ {
+  "id": "img-singapore-skyline",
+  "kind": "image",
+  "difficulty": 1,
+  "category": "Cityscapes",
+  "real": {
+   "url": "/content/real/singapore-skyline.jpg",
+   "title": "ArtScience Museum, Marina Bay Sands, Singapore",
+   "description": "ArtScience Museum , Marina Bay Sands, in the late afternoon, in front of the skyline of the Central Business District, Singapore. Architect : Moshe Safdie.",
+   "author": "Basile Morin",
+   "license": "CC BY-SA 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:ArtScience_Museum,_Marina_Bay_Sands,_Singapore.jpg",
+   "subject": "Cityscapes"
+  },
+  "fake": {
+   "url": "/content/fake/singapore-skyline.jpg",
+   "prompt": "The Singapore skyline with futuristic museum towers across the bay at dusk",
+   "generator": "Pre-baked diffusion model",
+   "seed": null,
+   "tells": [
+    "Marina Bay Sands has four towers instead of three",
+    "ArtScience Museum has an extra petal-like structure",
+    "background skyscrapers have nonsensical window patterns"
+   ]
+  }
+ },
+ {
+  "id": "img-museum-at-night",
+  "kind": "image",
+  "difficulty": 2,
+  "category": "Night",
+  "real": {
+   "url": "/content/real/museum-at-night.jpg",
+   "title": "Alte Nationalgalerie abends (Zuschnitt)",
+   "description": "Alte Nationalgalerie in Berlin , Germany",
+   "author": "Thomas Wolf , www.foto-tw.de",
+   "license": "CC BY-SA 3.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Alte_Nationalgalerie_abends_(Zuschnitt).jpg",
+   "subject": "Night"
+  },
+  "fake": {
+   "url": "/content/fake/museum-at-night.jpg",
+   "prompt": "A grand neoclassical museum building with glowing columns photographed at night",
+   "generator": "Pre-baked diffusion model",
+   "seed": null,
+   "tells": [
+    "garbled and nonsensical column capitals",
+    "melted and indistinct human figures on the steps",
+    "impossible geometry of the fluted columns merging into the background wall"
+   ]
+  }
+ },
+ {
+  "id": "img-light-arches-street",
+  "kind": "image",
+  "difficulty": 2,
+  "category": "Night",
+  "real": {
+   "url": "/content/real/light-arches-street.webp",
+   "title": "2013-12-21 19-13-03 lumieres-noel-montbeliard",
+   "description": "Christmas lights in Montbéliard , Bourgogne , France.",
+   "author": "Thomas Bresson",
+   "license": "CC BY 3.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:2013-12-21_19-13-03_lumieres-noel-montbeliard.jpg",
+   "subject": "Night"
+  },
+  "fake": {
+   "url": "/content/fake/light-arches-street.jpg",
+   "prompt": "A narrow European street decorated with blue and white light arches at night",
+   "generator": "Pre-baked diffusion model",
+   "seed": null,
+   "tells": [
+    "garbled or invented text on storefront signs",
+    "physically impossible geometry of the light arches",
+    "melted and indistinct features on pedestrians"
+   ]
+  }
+ },
+ {
+  "id": "img-gothic-cathedral-night",
+  "kind": "image",
+  "difficulty": 1,
+  "category": "Night",
+  "real": {
+   "url": "/content/real/gothic-cathedral-night.jpg",
+   "title": "Basílica de Notre-Dame, Montreal, Canadá, 2017-08-11, DD 20-22 HDR",
+   "description": "Exterior of the Notre-Dame Basilica , located in the historic district of Old Montreal , in Montreal , Quebec , Canada . It was built between 1823 and 1829 after a design of James O'Donnell and it has become one of the landmarks of the city.",
+   "author": "Diego Delso",
+   "license": "CC BY-SA 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bas%C3%ADlica_de_Notre-Dame,_Montreal,_Canad%C3%A1,_2017-08-11,_DD_20-22_HDR.jpg",
+   "subject": "Night"
+  },
+  "fake": {
+   "url": "/content/fake/gothic-cathedral-night.jpg",
+   "prompt": "A gothic cathedral facade illuminated by dramatic lights against a dark night sky",
+   "generator": "Pre-baked diffusion model",
+   "seed": null,
+   "tells": [
+    "garbled and nonsensical stone carvings in the archivolts",
+    "physically impossible fused geometry of the rose window tracery",
+    "statues and pinnacles melt into the background stonework"
+   ]
+  }
+ },
+ {
+  "id": "img-chateau-chillon-dusk",
+  "kind": "image",
+  "difficulty": 3,
+  "category": "Night",
+  "real": {
+   "url": "/content/real/chateau-chillon-dusk.jpg",
+   "title": "001 Chateau de Chillon and Dents du Midi Photo by Giles Laurent",
+   "description": "Château de Chillon ( Switzerland ) and Dents du Midi at nightfall",
+   "author": "Giles Laurent",
+   "license": "CC BY-SA 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:001_Chateau_de_Chillon_and_Dents_du_Midi_Photo_by_Giles_Laurent.jpg",
+   "subject": "Night"
+  },
+  "fake": {
+   "url": "/content/fake/chateau-chillon-dusk.jpg",
+   "prompt": "A medieval lakeside castle with snowy mountains behind at blue hour dusk",
+   "generator": "Pre-baked diffusion model",
+   "seed": null,
+   "tells": [
+    "garbled green symbols on the tower walls",
+    "impossible window geometry and nonsensical architectural details",
+    "over-smooth, plastic-like rendering of the stone textures"
+   ]
+  }
+ },
+ {
+  "id": "img-milky-way-silhouette",
+  "kind": "image",
+  "difficulty": 1,
+  "category": "Night",
+  "real": {
+   "url": "/content/real/milky-way-silhouette.jpg",
+   "title": "018 Human looking at the stars during Perseids with the Milky Way in the background Photo by Giles Laurent",
+   "description": "A human, aligned with the Milky Way , looks at the stars from Oeschinensee (Switzerland) during Perseids in search of shooting stars.",
+   "author": "Giles Laurent",
+   "license": "CC BY-SA 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:018_Human_looking_at_the_stars_during_Perseids_with_the_Milky_Way_in_the_background_Photo_by_Giles_Laurent.jpg",
+   "subject": "Night"
+  },
+  "fake": {
+   "url": "/content/fake/milky-way-silhouette.jpg",
+   "prompt": "Silhouette of a person standing on a dark hill under the bright band of the Milky Way",
+   "generator": "Pre-baked diffusion model",
+   "seed": null,
+   "tells": [
+    "garbled and inconsistent star patterns in the Milky Way",
+    "silhouette lacks anatomical detail with fused or missing limbs",
+    "overly smooth, plastic-like texture of the hill's surface"
+   ]
+  }
+ },
+ {
+  "id": "img-subway-escalator-bw",
+  "kind": "image",
+  "difficulty": 3,
+  "category": "People",
+  "real": {
+   "url": "/content/real/subway-escalator-bw.jpg",
+   "title": "Ana rosa metro station, São Paulo, Brazil",
+   "description": "Ana Rosa metro station, Green line, São Paulo, Brazil",
+   "author": "Wilfredor",
+   "license": "CC BY-SA 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ana_rosa_metro_station,_S%C3%A3o_Paulo,_Brazil.jpg",
+   "subject": "People"
+  },
+  "fake": {
+   "url": "/content/fake/subway-escalator-bw.jpg",
+   "prompt": "Black and white photograph of commuters on a long subway escalator",
+   "generator": "Pre-baked diffusion model",
+   "seed": null,
+   "tells": [
+    "garbled and nonsensical faces of background commuters",
+    "physically impossible anatomy of the central running figure",
+    "inconsistent and melted geometry of the escalator steps"
+   ]
+  }
+ },
+ {
+  "id": "img-hammerhead-carrier",
+  "kind": "image",
+  "difficulty": 2,
+  "category": "People",
+  "real": {
+   "url": "/content/real/hammerhead-carrier.webp",
+   "title": "A man carries a huge hammerhead through the streets of Mogadishu",
+   "description": "This is an image of \"African people at work\" from",
+   "author": "Marco Gualazzini",
+   "license": "CC BY-SA 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:A_man_carries_a_huge_hammerhead_through_the_streets_of_Mogadishu.jpg",
+   "subject": "People"
+  },
+  "fake": {
+   "url": "/content/fake/hammerhead-carrier.jpg",
+   "prompt": "A man carrying a huge hammerhead shark on his shoulder through a sunlit street",
+   "generator": "Pre-baked diffusion model",
+   "seed": null,
+   "tells": [
+    "shark is a generic species, not a hammerhead as prompted",
+    "shark's body appears to merge or clip into the man's shoulder",
+    "background pedestrians have blurry, indistinct facial features"
+   ]
+  }
+ },
+ {
+  "id": "img-bearded-pipe-smoker-bw",
+  "kind": "image",
+  "difficulty": 3,
+  "category": "People",
+  "real": {
+   "url": "/content/real/bearded-pipe-smoker-bw.jpg",
+   "title": "Bearded man smoking pipe-3013924",
+   "description": "Bearded man smoking pipe.",
+   "author": "ThuyHaBich",
+   "license": "CC0",
+   "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bearded_man_smoking_pipe-3013924.jpg",
+   "subject": "People"
+  },
+  "fake": {
+   "url": "/content/fake/bearded-pipe-smoker-bw.jpg",
+   "prompt": "Black and white portrait of an old bearded man smoking a wooden pipe",
+   "generator": "Pre-baked diffusion model",
+   "seed": null,
+   "tells": [
+    "pipe stem fuses with the beard hair",
+    "impossible ear geometry with extra folds",
+    "over-smooth plastic-like skin texture"
+   ]
+  }
+ },
+ {
+  "id": "img-elderly-man-rhodes-bw",
+  "kind": "image",
+  "difficulty": 2,
+  "category": "People",
+  "real": {
+   "url": "/content/real/elderly-man-rhodes-bw.jpg",
+   "title": "Maybe",
+   "description": "An elderly gentleman with a pensive expression in Rhodes, Greece",
+   "author": "Martin Hricko",
+   "license": "CC BY 3.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Elderly_man_in_Rhodes,_Greece_(black_and_white).jpg",
+   "subject": "People"
+  },
+  "fake": {
+   "url": "/content/fake/elderly-man-rhodes-bw.jpg",
+   "prompt": "Black and white portrait of an elderly man in a striped shirt looking to the side",
+   "generator": "Pre-baked diffusion model",
+   "seed": null,
+   "tells": [
+    "garbled and melting shirt collar geometry",
+    "inconsistent and nonsensical stripe patterns on the fabric",
+    "over-smooth, plastic-like skin texture with unnatural pore detail"
+   ]
+  }
+ },
+ {
+  "id": "img-girl-at-stove",
+  "kind": "image",
+  "difficulty": 3,
+  "category": "People",
+  "real": {
+   "url": "/content/real/girl-at-stove.jpg",
+   "title": "A girl set fire to cook breakfast by using a coal-filled clay pot; July 2014",
+   "description": "An Indonesian girl preparing to cook rice in the morning using an anglo, a clay pot filled with coal. The picture was taken in Imogiri, Bantul, Yogyakarta.",
+   "author": "Gumilang Aryo Sahadewo",
+   "license": "CC BY 2.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:A_girl_set_fire_to_cook_breakfast_by_using_a_coal-filled_clay_pot;_July_2014.jpg",
+   "subject": "People"
+  },
+  "fake": {
+   "url": "/content/fake/girl-at-stove.jpg",
+   "prompt": "A young girl crouching by a coal stove cooking breakfast in morning light",
+   "generator": "Pre-baked diffusion model",
+   "seed": null,
+   "tells": [
+    "garbled stove handle fusing with the girl's hand",
+    "impossible anatomy of the left foot and sandal strap",
+    "nonsensical background texture on the wall"
+   ]
+  }
+ },
+ {
+  "id": "img-roadside-workshop",
+  "kind": "image",
+  "difficulty": 2,
+  "category": "People",
+  "real": {
+   "url": "/content/real/roadside-workshop.webp",
+   "title": "Craftmen at work, bamboo basket weaving and textile mobile sculptures, in Heuan Chan heritage house, Luang Prabang, Laos",
+   "description": "Craftmen at work, wicker furniture makers, bamboo basket weaving , textile crafts and suspended mobile sculptures , interior view of the wooden Heuan Chan heritage house , stilt building with wooden ceiling, bamboo furniture and \" sudare \" (bamboo venetian blinds ), Luang Prabang , Laos .",
+   "author": "Basile Morin",
+   "license": "CC BY-SA 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Craftmen_at_work,_bamboo_basket_weaving_and_textile_mobile_sculptures,_in_Heuan_Chan_heritage_house,_Luang_Prabang,_Laos.jpg",
+   "subject": "People"
+  },
+  "fake": {
+   "url": "/content/fake/roadside-workshop.jpg",
+   "prompt": "People working at an open-air roadside workshop surrounded by woven bamboo baskets",
+   "generator": "Pre-baked diffusion model",
+   "seed": null,
+   "tells": [
+    "garbled and fused finger anatomy on central figure's hands",
+    "melted and physically impossible basket weave patterns",
+    "nonsensical background details with blurry, undefined objects"
+   ]
+  }
+ },
+ {
+  "id": "img-man-with-donkey",
+  "kind": "image",
+  "difficulty": 3,
+  "category": "People",
+  "real": {
+   "url": "/content/real/man-with-donkey.webp",
+   "title": "A man and his donkey on the way back from the field in Aswan, Egypt (edited)",
+   "description": "A man and his donkey like friends helping each other back from the field.",
+   "author": "Original: Mohamed Hozyen Derivative work: Aristeas",
+   "license": "CC BY-SA 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:A_man_and_his_donkey_on_the_way_back_from_the_field_in_Aswan,_Egypt_(edited).jpg",
+   "subject": "People"
+  },
+  "fake": {
+   "url": "/content/fake/man-with-donkey.jpg",
+   "prompt": "A man walking with his donkey loaded with green fodder along a rural path",
+   "generator": "Pre-baked diffusion model",
+   "seed": null,
+   "tells": [
+    "fused strap passing through the man's arm",
+    "impossible button placement on jacket placket",
+    "over-smooth plastic texture of the jacket fabric"
+   ]
+  }
+ },
+ {
+  "id": "img-cheroot-smoker",
+  "kind": "image",
+  "difficulty": 1,
+  "category": "People",
+  "real": {
+   "url": "/content/real/cheroot-smoker.jpg",
+   "title": "Cheroot Smoking (edited)",
+   "description": "A Burmese man smoking a filterless cheroot cigar",
+   "author": "Original: Anton Gutmann Derivative work: Radomianin",
+   "license": "CC BY-SA 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Cheroot_Smoking_(edited).jpg",
+   "subject": "People"
+  },
+  "fake": {
+   "url": "/content/fake/cheroot-smoker.jpg",
+   "prompt": "Close-up portrait of an elderly Asian man smoking a long cheroot cigar, warm golden light",
+   "generator": "Pre-baked diffusion model",
+   "seed": null,
+   "tells": [
+    "fused and anatomically incorrect fingers holding the cigar",
+    "cigar end merges unnaturally with the lips",
+    "over-smooth, plastic-like skin texture on the forehead"
+   ]
+  }
+ },
+ {
+  "id": "img-cotton-miller",
+  "kind": "image",
+  "difficulty": 3,
+  "category": "People",
+  "real": {
+   "url": "/content/real/cotton-miller.jpg",
+   "title": "Cotton miller of Kültür Turkey",
+   "description": "Cotton miller of Kültür Turkey",
+   "author": "Musatalasli",
+   "license": "CC BY-SA 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Cotton_miller_of_K%C3%BClt%C3%BCr_Turkey.jpg",
+   "subject": "People"
+  },
+  "fake": {
+   "url": "/content/fake/cotton-miller.jpg",
+   "prompt": "A cotton miller at work inside a dim workshop with fibers floating in shafts of light",
+   "generator": "Pre-baked diffusion model",
+   "seed": null,
+   "tells": [
+    "garbled and nonsensical machinery parts on the left",
+    "impossible hand anatomy with fused or missing fingers",
+    "over-smooth skin texture with lack of natural pores"
+   ]
+  }
+ },
+ {
+  "id": "img-bolts-city-bw",
+  "kind": "image",
+  "difficulty": 1,
+  "category": "Still Life",
+  "real": {
+   "url": "/content/real/bolts-city-bw.jpg",
+   "title": "Schrauben, Muttern und Unterlegscheiben -- 2020 -- 4150",
+   "description": "Screws , nuts and washers",
+   "author": "Dietmar Rabich",
+   "license": "CC BY-SA 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Schrauben,_Muttern_und_Unterlegscheiben_--_2020_--_4150.jpg",
+   "subject": "Still Life"
+  },
+  "fake": {
+   "url": "/content/fake/bolts-city-bw.jpg",
+   "prompt": "Black and white macro photograph of hexagonal bolts and nuts arranged in neat rows",
+   "generator": "Pre-baked diffusion model",
+   "seed": null,
+   "tells": [
+    "impossible concentric ring texture on nut faces",
+    "threads on outer face instead of inner bore",
+    "fused and overlapping geometry of background objects"
+   ]
+  }
+ },
+ {
+  "id": "img-pepper-bw",
+  "kind": "image",
+  "difficulty": 3,
+  "category": "Still Life",
+  "real": {
+   "url": "/content/real/pepper-bw.jpg",
+   "title": "Pepper No. 30",
+   "description": "Pepper No. 30 , 1930 photograph of a green pepper by Edward Weston , printed by his son, Cole Weston.",
+   "author": "Edward Weston",
+   "license": "Public domain",
+   "licenseUrl": "",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Pepper_No._30.jpg",
+   "subject": "Still Life"
+  },
+  "fake": {
+   "url": "/content/fake/pepper-bw.jpg",
+   "prompt": "Black and white close-up of a single curved glossy bell pepper",
+   "generator": "Pre-baked diffusion model",
+   "seed": null,
+   "tells": [
+    "garbled and fused stem base geometry",
+    "nonsensical textured ring around the stem",
+    "over-smooth plastic-like skin texture"
+   ]
+  }
+ },
+ {
+  "id": "img-bee-mid-air",
+  "kind": "image",
+  "difficulty": 1,
+  "category": "In Flight",
+  "real": {
+   "url": "/content/real/bee-mid-air.jpg",
+   "title": "Bee mid air",
+   "description": "A bee ( Apis mellifera ) in mid air flight",
+   "author": "Fir0002",
+   "license": "GFDL 1.2",
+   "licenseUrl": "http://www.gnu.org/licenses/old-licenses/fdl-1.2.html",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bee_mid_air.jpg",
+   "subject": "In Flight"
+  },
+  "fake": {
+   "url": "/content/fake/bee-mid-air.jpg",
+   "prompt": "A honey bee hovering in mid-air with sharp wings near white flowers",
+   "generator": "Pre-baked diffusion model",
+   "seed": null,
+   "tells": [
+    "bee has four wings instead of two",
+    "abdominal stripes are irregular and smudged",
+    "antennae are thick and lack fine segmentation"
+   ]
+  }
+ },
+ {
+  "id": "img-hummingbird-hawkmoth",
+  "kind": "image",
+  "difficulty": 2,
+  "category": "In Flight",
+  "real": {
+   "url": "/content/real/hummingbird-hawkmoth.jpg",
+   "title": "Hummingbird hawk moth (Macroglossum stellatarum) in flight",
+   "description": "Hummingbird hawk moth ( Macroglossum stellatarum ) in flight, Yastrebets, Rila Mountains, Bulgaria",
+   "author": "Charles J. Sharp",
+   "license": "CC BY-SA 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Hummingbird_hawk_moth_(Macroglossum_stellatarum)_in_flight.jpg",
+   "subject": "In Flight"
+  },
+  "fake": {
+   "url": "/content/fake/hummingbird-hawkmoth.jpg",
+   "prompt": "A hummingbird hawkmoth hovering with blurred wings at a purple flower",
+   "generator": "Pre-baked diffusion model",
+   "seed": null,
+   "tells": [
+    "wings are fully extended instead of blurred from hovering",
+    "antennae have an unnatural curved hook shape",
+    "flower petals have inconsistent and fused geometry"
+   ]
+  }
+ },
+ {
+  "id": "img-dragonfly-in-flight",
+  "kind": "image",
+  "difficulty": 3,
+  "category": "In Flight",
+  "real": {
+   "url": "/content/real/dragonfly-in-flight.jpg",
+   "title": "Pantala flavescens (globe skimmer) in flight, side view",
+   "description": "Pantala flavescens (globe skimmer, globe wanderer or wandering glider) male, in flight, in a paddy field, in Don Det, Si Phan Don , Laos . Side view.",
+   "author": "Basile Morin",
+   "license": "CC BY-SA 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Pantala_flavescens_(globe_skimmer)_in_flight,_side_view.jpg",
+   "subject": "In Flight"
+  },
+  "fake": {
+   "url": "/content/fake/dragonfly-in-flight.jpg",
+   "prompt": "A red-veined darter dragonfly in flight, side view, sharp detail, blurred green background",
+   "generator": "Pre-baked diffusion model",
+   "seed": null,
+   "tells": [
+    "incorrect number of wings (four instead of two pairs)",
+    "fused or missing leg joints on the thorax",
+    "nonsensical wing venation patterns"
+   ]
+  }
+ },
+ {
+  "id": "img-bat-in-sky",
+  "kind": "image",
+  "difficulty": 2,
+  "category": "In Flight",
+  "real": {
+   "url": "/content/real/bat-in-sky.jpg",
+   "title": "Polynesian flying fox (Pteropus tonganus) in flight Taveuni",
+   "description": "Polynesian flying fox ( Pteropus tonganus ) in flight, Taveuni, Fiji",
+   "author": "Charles J. Sharp",
+   "license": "CC BY-SA 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Polynesian_flying_fox_(Pteropus_tonganus)_in_flight_Taveuni.jpg",
+   "subject": "In Flight"
+  },
+  "fake": {
+   "url": "/content/fake/bat-in-sky.jpg",
+   "prompt": "A bat flying with wings spread against a clear blue sky",
+   "generator": "Pre-baked diffusion model",
+   "seed": null,
+   "tells": [
+    "impossible wing membrane texture resembling woven leather or wood grain",
+    "anatomically incorrect facial structure and ear placement for a bat",
+    "overly smooth, plastic-like rendering of the fur and body"
+   ]
+  }
+ },
+ {
+  "id": "img-reed-parrotbill",
+  "kind": "image",
+  "difficulty": 3,
+  "category": "Birds",
+  "real": {
+   "url": "/content/real/reed-parrotbill.jpg",
+   "title": "Panurus biarmicus male portrait 01 (MK)",
+   "description": "Portrait of a male Bearded Reedling ( Panurus biarmicus ) .",
+   "author": "Mathias Krumbholz",
+   "license": "CC BY-SA 3.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Panurus_biarmicus_male_portrait_01_(MK).jpg",
+   "subject": "Birds"
+  },
+  "fake": {
+   "url": "/content/fake/reed-parrotbill.jpg",
+   "prompt": "Close-up of a reed parrotbill with grey and orange head plumage in reeds",
+   "generator": "Pre-baked diffusion model",
+   "seed": null,
+   "tells": [
+    "fused and indistinct bird feet gripping the branch",
+    "melted and nonsensical texture of the branch bark",
+    "over-smooth, plastic-like rendering of the plumage"
+   ]
+  }
+ },
+ {
+  "id": "img-bohemian-waxwing",
+  "kind": "image",
+  "difficulty": 2,
+  "category": "Birds",
+  "real": {
+   "url": "/content/real/bohemian-waxwing.jpg",
+   "title": "Cedar waxwing in Green-Wood Cemetery (55650)",
+   "description": "Cedar waxwing in Green-Wood Cemetery.",
+   "author": "Rhododendrites",
+   "license": "CC BY-SA 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Cedar_waxwing_in_Green-Wood_Cemetery_(55650).jpg",
+   "subject": "Birds"
+  },
+  "fake": {
+   "url": "/content/fake/bohemian-waxwing.jpg",
+   "prompt": "A Bohemian waxwing with a crested head perched on a snowy flowering branch",
+   "generator": "Pre-baked diffusion model",
+   "seed": null,
+   "tells": [
+    "impossible tail with yellow tip and black band",
+    "garbled wing patterns and feather layering",
+    "plastic-smooth texture on bird's body"
+   ]
+  }
+ },
+ {
+  "id": "img-weaver-bird-nest",
+  "kind": "image",
+  "difficulty": 3,
+  "category": "Birds",
+  "real": {
+   "url": "/content/real/weaver-bird-nest.jpg",
+   "title": "Western Bowerbird 0A2A0436",
+   "description": "Western bowerbird ( Chlamydera guttata ). Alice Springs, Northern Territory, Australia. The species has a disjunct distribution, occurring in Central Australia and the Pilbara region of Western Australia",
+   "author": "JJ Harrison",
+   "license": "CC BY-SA 3.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Western_Bowerbird_0A2A0436.jpg",
+   "subject": "Birds"
+  },
+  "fake": {
+   "url": "/content/fake/weaver-bird-nest.jpg",
+   "prompt": "A yellow weaver bird sitting inside its woven grass nest on a thorny branch",
+   "generator": "Pre-baked diffusion model",
+   "seed": null,
+   "tells": [
+    "impossible fused nest geometry with two birds",
+    "bird's red eye and beak shape are biologically wrong",
+    "nonsensical background bird head without a body"
+   ]
+  }
+ },
+ {
+  "id": "img-verditer-flycatcher",
+  "kind": "image",
+  "difficulty": 2,
+  "category": "Birds",
+  "real": {
+   "url": "/content/real/verditer-flycatcher.jpg",
+   "title": "Black-naped Monarch 0A2A8267",
+   "description": "Black-naped Monarch, Trusmadi Forest Reserve",
+   "author": "JJ Harrison",
+   "license": "CC BY-SA 3.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Black-naped_Monarch_0A2A8267.jpg",
+   "subject": "Birds"
+  },
+  "fake": {
+   "url": "/content/fake/verditer-flycatcher.jpg",
+   "prompt": "A bright blue verditer flycatcher perched on a bare twig against soft foliage",
+   "generator": "Pre-baked diffusion model",
+   "seed": null,
+   "tells": [
+    "fused or missing toes on the bird's feet",
+    "impossible branch geometry with no clear connection point",
+    "over-smooth, plastic-like texture of the feathers"
+   ]
+  }
+ },
+ {
+  "id": "img-bird-red-flowers",
+  "kind": "image",
+  "difficulty": 1,
+  "category": "Birds",
+  "real": {
+   "url": "/content/real/bird-red-flowers.jpg",
+   "title": "Philippine brown shrike (Lanius cristatus lucionensis) on coral tree (Erythrina variegata) Xindian",
+   "description": "Philippine brown shrike ( Lanius cristatus lucionensis ) on coral tree ( Erythrina variegata ), Xindian District, New Taipei City, Taiwan",
+   "author": "Charles J. Sharp",
+   "license": "CC BY-SA 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Philippine_brown_shrike_(Lanius_cristatus_lucionensis)_on_coral_tree_(Erythrina_variegata)_Xindian.jpg",
+   "subject": "Birds"
+  },
+  "fake": {
+   "url": "/content/fake/bird-red-flowers.jpg",
+   "prompt": "A small songbird with red and brown plumage perched on red flowering branches near water",
+   "generator": "Pre-baked diffusion model",
+   "seed": null,
+   "tells": [
+    "bird's feet are fused to the branch without clear toes",
+    "flowers have inconsistent petal counts and fused centers",
+    "feather patterns on the wing show repetitive, nonsensical striping"
+   ]
+  }
+ },
+ {
+  "id": "img-humpback-with-calf",
+  "kind": "image",
+  "difficulty": 2,
+  "category": "Underwater",
+  "real": {
+   "url": "/content/real/humpback-with-calf.jpg",
+   "title": "Humpback whale (Megaptera novaeangliae) with calf Moorea 2",
+   "description": "Humpback whale (Megaptera novaeangliae) with calf off Moorea, French Polynesia",
+   "author": "Charles J. Sharp",
+   "license": "CC BY-SA 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Humpback_whale_(Megaptera_novaeangliae)_with_calf_Moorea_2.jpg",
+   "subject": "Underwater"
+  },
+  "fake": {
+   "url": "/content/fake/humpback-with-calf.jpg",
+   "prompt": "A humpback whale swimming with its calf in deep blue ocean water seen from underwater",
+   "generator": "Pre-baked diffusion model",
+   "seed": null,
+   "tells": [
+    "calf's body is fused into the mother's back",
+    "mother whale has two left pectoral fins",
+    "nonsensical background tail lacks a body"
+   ]
+  }
+ },
+ {
+  "id": "img-dolphin-leap",
+  "kind": "image",
+  "difficulty": 3,
+  "category": "Underwater",
+  "real": {
+   "url": "/content/real/dolphin-leap.jpg",
+   "title": "010 Atlantic bottlenose dolphin jumping at Pelican point Photo by Giles Laurent",
+   "description": "Atlantic bottlenose dolphin jumping at Pelican point, Namibia",
+   "author": "Giles Laurent",
+   "license": "CC BY-SA 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:010_Atlantic_bottlenose_dolphin_jumping_at_Pelican_point_Photo_by_Giles_Laurent.jpg",
+   "subject": "Underwater"
+  },
+  "fake": {
+   "url": "/content/fake/dolphin-leap.jpg",
+   "prompt": "A bottlenose dolphin leaping out of ocean water with spray, seen from a boat",
+   "generator": "Pre-baked diffusion model",
+   "seed": null,
+   "tells": [
+    "dorsal fin has a strange extra point or notch on the trailing edge",
+    "water spray forms an unnatural, solid-looking sheet rather than droplets",
+    "wooden boat railing has blurry, indistinct grain and lacks realistic texture"
+   ]
+  }
+ },
+ {
+  "id": "txt-novel-moby-dick",
+  "kind": "text",
+  "difficulty": 1,
+  "category": "Novel Opening",
+  "real": {
+   "text": "Call me Ishmael. Some years ago—never mind how long precisely—having little or no money in my purse, and nothing particular to interest me on shore, I thought I would sail about a little and see the watery part of the world. It is a way I have of driving off the spleen and regulating the circulation.",
+   "source": "“Moby Dick” — Herman Melville, 1851",
+   "sourceUrl": "https://www.gutenberg.org/ebooks/2701",
+   "category": "novel opening"
+  },
+  "fake": {
+   "text": "I am Arthur Pendleton, scion of a noble line that traced its lineage back to the age of chivalry, when my forebears rode forth to defend the realm against encroaching darkness and uphold the virtues of honor and steadfast courage.",
+   "prompt": "Write a fake novel opening to pair against “Moby Dick” (tier 1 imitation)",
+   "generator": "Pre-baked LLM",
+   "tells": [
+    "overly elaborate lineage description",
+    "formulaic cadence",
+    "encroaching darkness phrasing"
+   ],
+   "category": "novel opening"
+  }
+ },
+ {
+  "id": "txt-novel-pride-and-prejudice",
+  "kind": "text",
+  "difficulty": 1,
+  "category": "Novel Opening",
+  "real": {
+   "text": "It is a truth universally acknowledged, that a single man in possession of a good fortune must be in want of a wife. However little known the feelings or views of such a man may be on his first entering a neighbourhood, this truth is so well fixed in the minds of the surrounding families, that he is considered as the rightful property of some one or other of their daughters. “My dear Mr.",
+   "source": "“Pride and Prejudice” — Jane Austen, 1813",
+   "sourceUrl": "https://www.gutenberg.org/ebooks/1342",
+   "category": "novel opening"
+  },
+  "fake": {
+   "text": "It was an undeniable fact of society that a gentleman of considerable means, upon arriving in a new locale, invariably became the object of matrimonial aspirations among eligible young ladies of the neighborhood, whose families viewed him as a most desirable prize for their daughters' futures.",
+   "prompt": "Write a fake novel opening to pair against “Pride and Prejudice” (tier 1 imitation)",
+   "generator": "Pre-baked LLM",
+   "tells": [
+    "rhythm too even",
+    "word choice overly formal",
+    "sentence structure overly symmetrical"
+   ],
+   "category": "novel opening"
+  }
+ },
+ {
+  "id": "txt-novel-alice-s-adventures-in-wonderland",
+  "kind": "text",
+  "difficulty": 1,
+  "category": "Novel Opening",
+  "real": {
+   "text": "Alice was beginning to get very tired of sitting by her sister on the bank, and of having nothing to do: once or twice she had peeped into the book her sister was reading, but it had no pictures or conversations in it, “and what is the use of a book,” thought Alice “without pictures or conversations?”",
+   "source": "“Alice's Adventures in Wonderland” — Lewis Carroll, 1865",
+   "sourceUrl": "https://www.gutenberg.org/ebooks/11",
+   "category": "novel opening"
+  },
+  "fake": {
+   "text": "Young Eleanor stood by the casement, gazing at the storm-tossed waves that crashed against the rugged cliffs below. The tempest mirrored her turbulent emotions as she contemplated the uncertain path that lay before her in this new and uncharted chapter of life.",
+   "prompt": "Write a fake novel opening to pair against “Alice's Adventures in Wonderland” (tier 1 imitation)",
+   "generator": "Pre-baked LLM",
+   "tells": [
+    "rhythm too even",
+    "imagery too generic",
+    "word too modern ('chapter')"
+   ],
+   "category": "novel opening"
+  }
+ },
+ {
+  "id": "txt-novel-jane-eyre",
+  "kind": "text",
+  "difficulty": 2,
+  "category": "Novel Opening",
+  "real": {
+   "text": "There was no possibility of taking a walk that day. We had been wandering, indeed, in the leafless shrubbery an hour in the morning; but since dinner (Mrs. Reed, when there was no company, dined early) the cold winter wind had brought with it clouds so sombre, and a rain so penetrating, that further outdoor exercise was now out of the question.",
+   "source": "“Jane Eyre” — Charlotte Brontë, 1847",
+   "sourceUrl": "https://www.gutenberg.org/ebooks/1260",
+   "category": "novel opening"
+  },
+  "fake": {
+   "text": "It was a bleak afternoon in November, when the fog lay thick upon the moors, and the chill wind whistled mournfully through the leafless trees. Mrs. Thornton, having dismissed the parlour maid, sat alone by the crackling hearth, her thoughts wandering to days long past and futures uncertain.",
+   "prompt": "Write a fake novel opening to pair against “Jane Eyre” (tier 2 imitation)",
+   "generator": "Pre-baked LLM",
+   "tells": [
+    "moors too generic for a novel setting",
+    "parlour maid too specific and anachronistic",
+    "crackling hearth too perfect atmospheric detail"
+   ],
+   "category": "novel opening"
+  }
+ },
+ {
+  "id": "txt-novel-the-great-gatsby",
+  "kind": "text",
+  "difficulty": 2,
+  "category": "Novel Opening",
+  "real": {
+   "text": "In my younger and more vulnerable years my father gave me some advice that I’ve been turning over in my mind ever since. “Whenever you feel like criticizing anyone,” he told me, “just remember that all the people in this world haven’t had the advantages that you’ve had.”",
+   "source": "“The Great Gatsby” — F. Scott Fitzgerald, 1925",
+   "sourceUrl": "https://www.gutenberg.org/ebooks/64317",
+   "category": "novel opening"
+  },
+  "fake": {
+   "text": "In my youthful days of innocence and impressionable mind, my father imparted wisdom that has lingered with me throughout my existence: 'Whensoever you find yourself inclined toward judging others, reflect upon the varied fortunes that life has bestowed upon thee.'",
+   "prompt": "Write a fake novel opening to pair against “The Great Gatsby” (tier 2 imitation)",
+   "generator": "Pre-baked LLM",
+   "tells": [
+    "word 'existence' too formal",
+    "alliteration too balanced",
+    "unnatural archaic phrasing"
+   ],
+   "category": "novel opening"
+  }
+ },
+ {
+  "id": "txt-novel-wuthering-heights",
+  "kind": "text",
+  "difficulty": 2,
+  "category": "Novel Opening",
+  "real": {
+   "text": "I have just returned from a visit to my landlord—the solitary neighbour that I shall be troubled with. This is certainly a beautiful country! In all England, I do not believe that I could have fixed on a situation so completely removed from the stir of society.",
+   "source": "“Wuthering Heights” — Emily Brontë, 1847",
+   "sourceUrl": "https://www.gutenberg.org/ebooks/768",
+   "category": "novel opening"
+  },
+  "fake": {
+   "text": "I have recently returned from a visit to my landlord—the solitary neighbor that I shall be troubled with. This is certainly a beautiful country! In all England, I do not believe that I could have fixed on a situation so completely removed from the stir of society.",
+   "prompt": "Write a fake novel opening to pair against “Wuthering Heights” (tier 2 imitation)",
+   "generator": "Pre-baked LLM",
+   "tells": [
+    "use of 'recently' instead of period-appropriate 'just'",
+    "overly balanced parallel structure in the first sentence",
+    "slightly too-perfect rhythm throughout the paragraph"
+   ],
+   "category": "novel opening"
+  }
+ },
+ {
+  "id": "txt-novel-the-time-machine",
+  "kind": "text",
+  "difficulty": 2,
+  "category": "Novel Opening",
+  "real": {
+   "text": "The Time Traveller (for so it will be convenient to speak of him) was expounding a recondite matter to us. His grey eyes shone and twinkled, and his usually pale face was flushed and animated. The fire burnt brightly, and the soft radiance of the incandescent lights in the lilies of silver caught the bubbles that flashed and passed in our glasses.",
+   "source": "“The Time Machine” — H. G. Wells, 1895",
+   "sourceUrl": "https://www.gutenberg.org/ebooks/35",
+   "category": "novel opening"
+  },
+  "fake": {
+   "text": "The elderly gentleman stood upon the windswept cliff, his worn frockcoat flapping in the sea breeze as he contemplated the vast expanse before him. The golden sunset cast long shadows upon the ancient rocks below, while his mind wandered through memories of bygone days and futures yet unwritten.",
+   "prompt": "Write a fake novel opening to pair against “The Time Machine” (tier 2 imitation)",
+   "generator": "Pre-baked LLM",
+   "tells": [
+    "too-perfect parallel structure",
+    "overly sentimental description",
+    "uncharacteristically modern vocabulary"
+   ],
+   "category": "novel opening"
+  }
+ },
+ {
+  "id": "txt-poem-because-i-could-not-stop",
+  "kind": "text",
+  "difficulty": 3,
+  "category": "Poetry",
+  "real": {
+   "text": "Because I could not stop for Death, He kindly stopped for me; The carriage held but just ourselves And Immortality. We slowly drove, he knew no haste, And I had put away My labor, and my leisure too, For his civility.",
+   "source": "“Because I could not stop for Death” — Emily Dickinson, 1890",
+   "sourceUrl": "https://www.gutenberg.org/ebooks/12242",
+   "category": "poetry"
+  },
+  "fake": {
+   "text": "Because Death could not stop for me, He kindly stopped for my soul; The carriage held but just ourselves And eternity. We slowly drove, he knew no haste, And I had put away My labor, and my leisure too, For his eternal grace.",
+   "prompt": "Write a fake poetry to pair against “Because I could not stop for Death” (tier 3 imitation)",
+   "generator": "Pre-baked LLM",
+   "tells": [
+    "slightly forced rhyme scheme in first stanza",
+    "uncharacteristically smooth transition in second stanza",
+    "too direct personification in opening line"
+   ],
+   "category": "poetry"
+  }
+ },
+ {
+  "id": "txt-novel-a-tale-of-two-cities",
+  "kind": "text",
+  "difficulty": 1,
+  "category": "Novel Opening",
+  "real": {
+   "text": "It was the best of times, it was the worst of times, it was the age of wisdom, it was the age of foolishness, it was the epoch of belief, it was the epoch of incredulity, it was the season of Light, it was the season of Darkness, it was the spring of hope, it was the winter of despair, we had everything before us, we had nothing before us, we were all going direct to Heaven, we were all going direct the other way--in short, the period was so far like the present period, that some of its noisiest authorities insisted on its being received, for good or for evil, in the superlative degree of comparison only.",
+   "source": "“A Tale of Two Cities” — Charles Dickens, 1859",
+   "sourceUrl": "https://www.gutenberg.org/ebooks/98",
+   "category": "novel opening"
+  },
+  "fake": {
+   "text": "In the twilight of a bygone era, when the world stood poised between the dawn of progress and the shadow of uncertainty, there existed a singular moment that would echo through the ages. The air crackled with possibility, the streets hummed with the promise of tomorrow, and the hearts of men beat as one in anticipation of the great transformation that lay just beyond the horizon.",
+   "prompt": "Write a fake novel opening to pair against “A Tale of Two Cities” (tier 1 imitation)",
+   "generator": "Pre-baked LLM",
+   "tells": [
+    "rhythm too even",
+    "imagery too generic",
+    "crackled air cliché"
+   ],
+   "category": "novel opening"
+  }
+ },
+ {
+  "id": "txt-novel-frankenstein",
+  "kind": "text",
+  "difficulty": 3,
+  "category": "Novel Opening",
+  "real": {
+   "text": "I am by birth a Genevese, and my family is one of the most distinguished of that republic. My ancestors had been for many years counsellors and syndics, and my father had filled several public situations with honour and reputation. He was respected by all who knew him for his integrity and indefatigable attention to public business.",
+   "source": "“Frankenstein” — Mary Shelley, 1818",
+   "sourceUrl": "https://www.gutenberg.org/ebooks/84",
+   "category": "novel opening"
+  },
+  "fake": {
+   "text": "I was born within the ancient walls of York, my lineage tracing through generations of respected merchants whose fortunes had fluctuated with the tides of commerce. My father, a man of stern countenance and unwavering principles, had navigated the treacherous waters of trade with a singular determination that commanded both admiration and fear.",
+   "prompt": "Write a fake novel opening to pair against “Frankenstein” (tier 3 imitation)",
+   "generator": "Pre-baked LLM",
+   "tells": [
+    "fortunes had fluctuated with the tides of commerce",
+    "a man of stern countenance and unwavering principles",
+    "navigated the treacherous waters of trade"
+   ],
+   "category": "novel opening"
+  }
+ },
+ {
+  "id": "txt-novel-dracula",
+  "kind": "text",
+  "difficulty": 3,
+  "category": "Novel Opening",
+  "real": {
+   "text": "Left Munich at 8:35 P. M., on 1st May, arriving at Vienna early next morning; should have arrived at 6:46, but train was an hour late. Buda-Pesth seems a wonderful place, from the glimpse which I got of it from the train and the little I could walk through the streets.",
+   "source": "“Dracula” — Bram Stoker, 1897",
+   "sourceUrl": "https://www.gutenberg.org/ebooks/345",
+   "category": "novel opening"
+  },
+  "fake": {
+   "text": "Having taken my leave of Edinburgh at dawn, I arrived in Glasgow by noon, though the journey proved far longer than advertised, owing to an unexpected delay on the Forth Bridge. The city, as viewed from the carriage window, presented a panorama of industry and smoke that both impressed and appalled my sensibilities.",
+   "prompt": "Write a fake novel opening to pair against “Dracula” (tier 3 imitation)",
+   "generator": "Pre-baked LLM",
+   "tells": [
+    "sensibilities - too modern",
+    "panorama of industry and smoke - generic imagery",
+    "unexpected delay on the Forth Bridge - overly specific modern reference"
+   ],
+   "category": "novel opening"
+  }
+ },
+ {
+  "id": "txt-poem-tyger",
+  "kind": "text",
+  "difficulty": 1,
+  "category": "Poetry",
+  "real": {
+   "text": "Tyger Tyger, burning bright,\nIn the forests of the night;\nWhat immortal hand or eye,\nCould frame thy fearful symmetry?\nIn what distant deeps or skies,\nBurnt the fire of thine eyes?\nOn what wings dare he aspire?\nWhat the hand, dare seize the fire?",
+   "source": "“The Tyger” — William Blake, 1794",
+   "sourceUrl": "https://en.wikipedia.org/wiki/The_Tyger",
+   "category": "poetry"
+  },
+  "fake": {
+   "text": "Mystic creature, fierce and grand,\nIn the shadowed woodland land;\nWhat eternal hand or sight,\nCould shape thy dreadful might?\nFrom what distant depths or height,\nFlamed thy burning light?\nOn what wing did dare to fly?\nWhat strong hand dared touch the sky?",
+   "prompt": "Write a fake poetry to pair against “The Tyger” (tier 1 imitation)",
+   "generator": "Pre-baked LLM",
+   "tells": [
+    "rhyme scheme too mechanically ABAB",
+    "imagery too conventional (grand, land, height, light)",
+    "rhythm excessively uniform compared to Blake's variable meter"
+   ],
+   "category": "poetry"
+  }
+ },
+ {
+  "id": "txt-poem-daffodils",
+  "kind": "text",
+  "difficulty": 1,
+  "category": "Poetry",
+  "real": {
+   "text": "I wandered lonely as a cloud\nThat floats on high o’er vales and hills,\nWhen all at once I saw a crowd,\nA host, of golden daffodils;\nBeside the lake, beneath the trees,\nFluttering and dancing in the breeze.",
+   "source": "“I Wandered Lonely as a Cloud” — William Wordsworth, 1807",
+   "sourceUrl": "https://en.wikipedia.org/wiki/I_Wandered_Lonely_as_a_Cloud",
+   "category": "poetry"
+  },
+  "fake": {
+   "text": "I wandered forth with heart so light,\nBeneath the sky's resplendent blue,\nWhere golden fields stretched far in sight,\nReflecting nature's vibrant hue;\nThe gentle breeze did softly blow,\nWhispering secrets all in row.",
+   "prompt": "Write a fake poetry to pair against “I Wandered Lonely as a Cloud” (tier 1 imitation)",
+   "generator": "Pre-baked LLM",
+   "tells": [
+    "rhyme scheme too regular (ABABCC)",
+    "imagery too generic and collected",
+    "phrasing overly smooth and polished"
+   ],
+   "category": "poetry"
+  }
+ },
+ {
+  "id": "txt-poem-fog",
+  "kind": "text",
+  "difficulty": 1,
+  "category": "Poetry",
+  "real": {
+   "text": "The fog comes\non little cat feet.\n\nIt sits looking\nover harbor and city\non silent haunches\nand then moves on.",
+   "source": "“Fog” — Carl Sandburg, 1916",
+   "sourceUrl": "https://en.wikipedia.org/wiki/Fog_(poem)",
+   "category": "poetry"
+  },
+  "fake": {
+   "text": "The fog arrives\non silent paws.\nIt pauses gazing\ncross bay and town\nupon quiet haunches\nand then drifts away.",
+   "prompt": "Write a fake poetry to pair against “Fog” (tier 1 imitation)",
+   "generator": "Pre-baked LLM",
+   "tells": [
+    "too regular syllable count",
+    "predictable rhyme scheme",
+    "overly polished phrasing"
+   ],
+   "category": "poetry"
+  }
+ },
+ {
+  "id": "txt-poem-to-autumn",
+  "kind": "text",
+  "difficulty": 2,
+  "category": "Poetry",
+  "real": {
+   "text": "Season of mists and mellow fruitfulness,\nClose bosom-friend of the maturing sun;\nConspiring with him how to load and bless\nWith fruit the vines that round the thatch-eves run;\nTo bend with apples the moss’d cottage-trees,\nAnd fill all fruit with ripeness to the core;\nTo swell the gourd, and plump the hazel shells\nWith a sweet kernel; to set budding more,\nAnd still more, later flowers for the bees,\nUntil they think warm days will never cease,\nFor Summer has o’er-brimm’d their clammy cells.",
+   "source": "“To Autumn (stanza I)” — John Keats, 1820",
+   "sourceUrl": "https://en.wikipedia.org/wiki/To_Autumn",
+   "category": "poetry"
+  },
+  "fake": {
+   "text": "Season of gold and gentle yielding,\nClose companion of the autumn sun;\nConspiring with him how to grace and bless\nWith bounty all the vines that round the eves run;\nTo bow with pears the moss-covered trees,\nAnd fill each fruit with ripeness to the soul;\n To swell the gourd, and enrich the nut shells\nWith a sweet essence; to encourage more,\nAnd ever more, late blossoms for the bees,\nUntil they dream warm days will never end,\nFor Autumn has overflowed their honeyed homes.",
+   "prompt": "Write a fake poetry to pair against “To Autumn (stanza I)” (tier 2 imitation)",
+   "generator": "Pre-baked LLM",
+   "tells": [
+    "too perfect ABAB rhyme pattern",
+    "overly organized parallel structure",
+    "forced alliteration in 'sweet essence'"
+   ],
+   "category": "poetry"
+  }
+ },
+ {
+  "id": "txt-poem-ozymandias",
+  "kind": "text",
+  "difficulty": 2,
+  "category": "Poetry",
+  "real": {
+   "text": "I met a traveller from an antique land,\nWho said—“Two vast and trunkless legs of stone\nStand in the desert. . . . Near them, on the sand,\nHalf sunk a shattered visage lies, whose frown,\nAnd wrinkled lip, and sneer of cold command,\nTell that its sculptor well those passions read\nWhich yet survive, stamped on these lifeless things,\nThe hand that mocked them, and the heart that fed;",
+   "source": "“Ozymandias” — Percy Bysshe Shelley, 1818",
+   "sourceUrl": "https://en.wikipedia.org/wiki/Ozymandias",
+   "category": "poetry"
+  },
+  "fake": {
+   "text": "I met a traveler from an ancient shore,\nWhose voice revealed a tale of times before.\nTwo colossal ruins, stark against the sky,\nWith fragments scattered where they used to lie.\nThe weathered features, stern and cold and grand,\nShowed artistry that master craftsmen's hand.\nThe passion that inspired such design,\nYet fades away like mist at morning's sign.",
+   "prompt": "Write a fake poetry to pair against “Ozymandias” (tier 2 imitation)",
+   "generator": "Pre-baked LLM",
+   "tells": [
+    "anachronistic phrase 'times before'",
+    "over-perfect ABAB CDCD rhyme scheme",
+    "unnatural closing simile 'like mist at morning's sign'"
+   ],
+   "category": "poetry"
+  }
+ },
+ {
+  "id": "txt-poem-hope",
+  "kind": "text",
+  "difficulty": 2,
+  "category": "Poetry",
+  "real": {
+   "text": "Hope is the thing with feathers —\nThat perches in the soul —\nAnd sings the tune without the words —\nAnd never stops — at all —\n\nAnd sweetest — in the Gale — is heard —\nAnd sore must be the storm —\nThat could abash the little Bird\nThat kept so many warm —",
+   "source": "““Hope” is the thing with feathers” — Emily Dickinson, 1861",
+   "sourceUrl": "https://en.wikipedia.org/wiki/%22Hope%22_is_the_thing_with_feathers",
+   "category": "poetry"
+  },
+  "fake": {
+   "text": "Hope is the thing with wings —\nThat flutters in the heart —\nAnd sings the melody without the words —\nAnd never ceases — ever —\n\nAnd sweetest — in the Tempest — is heard —\nAnd bitter must be the gale —\nThat could silence the small Bird\nThat kept so many souls —",
+   "prompt": "Write a fake poetry to pair against ““Hope” is the thing with feathers” (tier 2 imitation)",
+   "generator": "Pre-baked LLM",
+   "tells": [
+    "anachronistic use of 'wings' instead of Dickinson's 'feathers'",
+    "too-perfect alternating meter throughout",
+    "parallel structure in 'sweetest — in the Tempest — is heard' and 'bitter must be the gale'"
+   ],
+   "category": "poetry"
+  }
+ },
+ {
+  "id": "txt-poem-annabel-lee",
+  "kind": "text",
+  "difficulty": 3,
+  "category": "Poetry",
+  "real": {
+   "text": "It was many and many a year ago,\n   In a kingdom by the sea,\nThat a maiden there lived whom you may know\n   By the name of Annabel Lee;\nAnd this maiden she lived with no other thought\n   Than to love and be loved by me.\n\nI was a child and she was a child,\n   In this kingdom by the sea,\nBut we loved with a love that was more than love —\n   I and my Annabel Lee —",
+   "source": "“Annabel Lee (stanzas I–II)” — Edgar Allan Poe, 1849",
+   "sourceUrl": "https://en.wikipedia.org/wiki/Annabel_Lee",
+   "category": "poetry"
+  },
+  "fake": {
+   "text": "It was in the bleak December of my soul,\n   When the darkness held its sway,\nThat a spirit came to me, making me whole\n   And chased all my fears away;\nAnd this spirit it dwelt within my mind\n   With a love that would not die,\nAnd together we wandered, spirits entwined\n   Beneath a leaden sky.\nI know now that our bond shall never sever,\n   For death itself cannot divide us ever.",
+   "prompt": "Write a fake poetry to pair against “Annabel Lee (stanzas I–II)” (tier 3 imitation)",
+   "generator": "Pre-baked LLM",
+   "tells": [
+    "forced rhyme in 'soul/sway'",
+    "unnatural inversion in 'making me whole'",
+    "awkwardly modern phrasing in 'spirits entwined'"
+   ],
+   "category": "poetry"
+  }
+ },
+ {
+  "id": "txt-poem-stopping-by-woods",
+  "kind": "text",
+  "difficulty": 3,
+  "category": "Poetry",
+  "real": {
+   "text": "Whose woods these are I think I know.\nHis house is in the village though;\nHe will not see me stopping here\nTo watch his woods fill up with snow.\n\nMy little horse must think it queer\nTo stop without a farmhouse near\nBetween the woods and frozen lake\nThe darkest evening of the year.",
+   "source": "“Stopping by Woods on a Snowy Evening (stanzas I–II)” — Robert Frost, 1923",
+   "sourceUrl": "https://en.wikipedia.org/wiki/Stopping_by_Woods_on_a_Snowy_Evening",
+   "category": "poetry"
+  },
+  "fake": {
+   "text": "Whose field these are I believe I know.\nHis farm is just beyond the hill;\nHe won't notice me pausing here\nTo watch his fields fill up with frost.\n\nMy old mare must find it strange\nTo halt without a dwelling near\nBetween the fields and frozen pond\nThe coldest twilight of the year.",
+   "prompt": "Write a fake poetry to pair against “Stopping by Woods on a Snowy Evening (stanzas I–II)” (tier 3 imitation)",
+   "generator": "Pre-baked LLM",
+   "tells": [
+    "symmetrical couplet rhymes",
+    "overly consistent meter",
+    "unnatural parallel structure"
+   ],
+   "category": "poetry"
+  }
+ },
+ {
+  "id": "txt-prov-stitch",
+  "kind": "text",
+  "difficulty": 1,
+  "category": "Proverb",
+  "real": {
+   "text": "A stitch in time saves nine.",
+   "source": "“A stitch in time saves nine” — Traditional English proverb, 1732",
+   "sourceUrl": "https://en.wiktionary.org/wiki/a_stitch_in_time_saves_nine",
+   "category": "proverb"
+  },
+  "fake": {
+   "text": "A timely stitch prevents future tears.",
+   "prompt": "Write a fake proverb to pair against “A stitch in time saves nine” (tier 1 imitation)",
+   "generator": "Pre-baked LLM",
+   "tells": [
+    "over-explains the metaphor",
+    "too grammatically structured",
+    "uncommonly precise wording"
+   ],
+   "category": "proverb"
+  }
+ },
+ {
+  "id": "txt-prov-early-bird",
+  "kind": "text",
+  "difficulty": 1,
+  "category": "Proverb",
+  "real": {
+   "text": "The early bird catches the worm.",
+   "source": "“The early bird catches the worm” — Traditional English proverb, 1636",
+   "sourceUrl": "https://en.wiktionary.org/wiki/the_early_bird_gets_the_worm",
+   "category": "proverb"
+  },
+  "fake": {
+   "text": "The first riser harvests the dawn's reward.",
+   "prompt": "Write a fake proverb to pair against “The early bird catches the worm” (tier 1 imitation)",
+   "generator": "Pre-baked LLM",
+   "tells": [
+    "dawn's reward too poetic",
+    "harvests too formal for proverb",
+    "riser too modern word choice"
+   ],
+   "category": "proverb"
+  }
+ },
+ {
+  "id": "txt-prov-rolling-stone",
+  "kind": "text",
+  "difficulty": 2,
+  "category": "Proverb",
+  "real": {
+   "text": "A rolling stone gathers no moss.",
+   "source": "“A rolling stone gathers no moss” — Traditional English proverb, 1546",
+   "sourceUrl": "https://en.wiktionary.org/wiki/a_rolling_stone_gathers_no_moss",
+   "category": "proverb"
+  },
+  "fake": {
+   "text": "A rolling stone gathers no fortune.",
+   "prompt": "Write a fake proverb to pair against “A rolling stone gathers no moss” (tier 2 imitation)",
+   "generator": "Pre-baked LLM",
+   "tells": [
+    "modern word 'fortune' replaces traditional 'moss'",
+    "structure too perfectly mirrors real proverb",
+    "lacks historical attestation as authentic proverb"
+   ],
+   "category": "proverb"
+  }
+ },
+ {
+  "id": "txt-prov-cooks",
+  "kind": "text",
+  "difficulty": 2,
+  "category": "Proverb",
+  "real": {
+   "text": "Too many cooks spoil the broth.",
+   "source": "“Too many cooks spoil the broth” — Traditional English proverb, 1575",
+   "sourceUrl": "https://en.wiktionary.org/wiki/too_many_cooks_spoil_the_broth",
+   "category": "proverb"
+  },
+  "fake": {
+   "text": "Too many hands make light work.",
+   "prompt": "Write a fake proverb to pair against “Too many cooks spoil the broth” (tier 2 imitation)",
+   "generator": "Pre-baked LLM",
+   "tells": [
+    "meaning contradicts genuine proverb",
+    "structure too symmetrical",
+    "not found in traditional proverb collections"
+   ],
+   "category": "proverb"
+  }
+ },
+ {
+  "id": "txt-prov-rome",
+  "kind": "text",
+  "difficulty": 2,
+  "category": "Proverb",
+  "real": {
+   "text": "When in Rome, do as the Romans do.",
+   "source": "“When in Rome, do as the Romans do” — Traditional English proverb, 1770",
+   "sourceUrl": "https://en.wiktionary.org/wiki/when_in_Rome,_do_as_the_Romans_do",
+   "category": "proverb"
+  },
+  "fake": {
+   "text": "While in London, act like a Londoner.",
+   "prompt": "Write a fake proverb to pair against “When in Rome, do as the Romans do” (tier 2 imitation)",
+   "generator": "Pre-baked LLM",
+   "tells": [
+    "geographic specificity",
+    "modern phrasing",
+    "unnatural parallelism"
+   ],
+   "category": "proverb"
+  }
+ },
+ {
+  "id": "txt-prov-moss-oak",
+  "kind": "text",
+  "difficulty": 3,
+  "category": "Proverb",
+  "real": {
+   "text": "Mighty oaks from little acorns grow.",
+   "source": "“Mighty oaks from little acorns grow” — Traditional English proverb, 1382",
+   "sourceUrl": "https://en.wiktionary.org/wiki/great_oaks_from_little_acorns_grow",
+   "category": "proverb"
+  },
+  "fake": {
+   "text": "Small acorns bring mighty oaks to grow.",
+   "prompt": "Write a fake proverb to pair against “Mighty oaks from little acorns grow” (tier 3 imitation)",
+   "generator": "Pre-baked LLM",
+   "tells": [
+    "reversed word order from authentic proverb",
+    "unnatural redundancy 'bring...to grow'",
+    "modern phrasing structure"
+   ],
+   "category": "proverb"
+  }
+ },
+ {
+  "id": "txt-prov-spade",
+  "kind": "text",
+  "difficulty": 3,
+  "category": "Proverb",
+  "real": {
+   "text": "Call a spade a spade.",
+   "source": "“Call a spade a spade” — Traditional English proverb, 1542",
+   "sourceUrl": "https://en.wiktionary.org/wiki/call_a_spade_a_spade",
+   "category": "proverb"
+  },
+  "fake": {
+   "text": "A rolling stone gathers no friends.",
+   "prompt": "Write a fake proverb to pair against “Call a spade a spade” (tier 3 imitation)",
+   "generator": "Pre-baked LLM",
+   "tells": [
+    "metaphor too direct",
+    "pattern too regular",
+    "not attested in proverb tradition"
+   ],
+   "category": "proverb"
+  }
+ },
+ {
+  "id": "txt-prov-horn-plenty",
+  "kind": "text",
+  "difficulty": 3,
+  "category": "Proverb",
+  "real": {
+   "text": "Empty sacks will never stand upright.",
+   "source": "“Empty sacks will never stand upright” — Traditional English proverb, 1721",
+   "sourceUrl": "https://en.wiktionary.org/wiki/an_empty_sack_cannot_stand_upright",
+   "category": "proverb"
+  },
+  "fake": {
+   "text": "A full pot makes no noise in the house.",
+   "prompt": "Write a fake proverb to pair against “Empty sacks will never stand upright” (tier 3 imitation)",
+   "generator": "Pre-baked LLM",
+   "tells": [
+    "modern household reference",
+    "rhythm too perfect for irregular speech",
+    "metaphor lacks double meaning"
+   ],
+   "category": "proverb"
+  }
+ },
+ {
+  "id": "txt-caption-ribblehead-viaduct",
+  "kind": "text",
+  "difficulty": 2,
+  "category": "Photo Caption",
+  "real": {
+   "text": "Ribblehead Viaduct , North Yorkshire, England, as seen from the north. In the distance is Pen-y-ghent .",
+   "source": "“2015 Ribblehead Viaduct 1” — Kreuzschnabel, 2015",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:2015_Ribblehead_Viaduct_1.jpg",
+   "category": "photo caption"
+  },
+  "fake": {
+   "text": "Ribblehead Viaduct in North Yorkshire, England, captured from a northern perspective with Pen-y-ghent visible in the background.",
+   "prompt": "Write a fake photo caption to pair against “2015 Ribblehead Viaduct 1” (tier 2 imitation)",
+   "generator": "Pre-baked LLM",
+   "tells": [
+    "overly structured syntax",
+    "precise geographical formulation",
+    "slightly too perfect descriptive flow"
+   ],
+   "category": "photo caption"
+  }
+ },
+ {
+  "id": "txt-caption-horses-on-beach",
+  "kind": "text",
+  "difficulty": 2,
+  "category": "Photo Caption",
+  "real": {
+   "text": "Man drives horses along the Jericoacora coast near the dunes.",
+   "source": "“Cavalos nas dunas de Jericoacora (edited)” — Original: Thiago Gomes Gonçalves Derivative work: Aristeas, 2015",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Cavalos_nas_dunas_de_Jericoacora_(edited).jpg",
+   "category": "photo caption"
+  },
+  "fake": {
+   "text": "Horses trot along the scenic shoreline of Jericoacora beach with dunes in the background.",
+   "prompt": "Write a fake photo caption to pair against “Cavalos nas dunas de Jericoacora (edited)” (tier 2 imitation)",
+   "generator": "Pre-baked LLM",
+   "tells": [
+    "too scenic/beautiful",
+    "overly structured",
+    "slightly formal tone"
+   ],
+   "category": "photo caption"
+  }
+ },
+ {
+  "id": "txt-caption-snow-ruins-stars",
+  "kind": "text",
+  "difficulty": 3,
+  "category": "Photo Caption",
+  "real": {
+   "text": "Poste optique under snow near the fort du Salbert (under moonlight), at Belfort, France.",
+   "source": "“2012-02-03 20-34-32-salbert-moonlight” — Thomas Bresson, 2015",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:2012-02-03_20-34-32-salbert-moonlight.jpg",
+   "category": "photo caption"
+  },
+  "fake": {
+   "text": "Optical post with snowy surroundings near the Salbert fortress under moonlight, Belfort, France, February 3, 2012.",
+   "prompt": "Write a fake photo caption to pair against “2012-02-03 20-34-32-salbert-moonlight” (tier 3 imitation)",
+   "generator": "Pre-baked LLM",
+   "tells": [
+    "excessive formal structure",
+    "unnatural specificity of date format",
+    "overly precise description"
+   ],
+   "category": "photo caption"
+  }
+ },
+ {
+  "id": "txt-caption-street-snack-seller",
+  "kind": "text",
+  "difficulty": 1,
+  "category": "Photo Caption",
+  "real": {
+   "text": "A bad sales day — street salesman in downtown Maracaibo, Venezuela",
+   "source": "“A bad sales day” — Wilfredor, 2015",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:A_bad_sales_day.jpg",
+   "category": "photo caption"
+  },
+  "fake": {
+   "text": "A street vendor experiences a slow sales day in downtown Maracaibo, Venezuela.",
+   "prompt": "Write a fake photo caption to pair against “A bad sales day” (tier 1 imitation)",
+   "generator": "Pre-baked LLM",
+   "tells": [
+    "overly polished phrasing",
+    "generic imagery",
+    "unnaturally tidy rhythm"
+   ],
+   "category": "photo caption"
+  }
+ },
+ {
+  "id": "txt-caption-rufous-hornero-nest",
+  "kind": "text",
+  "difficulty": 2,
+  "category": "Photo Caption",
+  "real": {
+   "text": "Rufous hornero ( Furnarius rufus ) at nest, Colonia, Uruguay",
+   "source": "“Rufous hornero (Furnarius rufus) at nest Colonia” — Charles J. Sharp, 2015",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Rufous_hornero_(Furnarius_rufus)_at_nest_Colonia.jpg",
+   "category": "photo caption"
+  },
+  "fake": {
+   "text": "Rufous hornero (Furnarius rufus) meticulously constructing its characteristic oven-shaped nest in Colonia, Uruguay.",
+   "prompt": "Write a fake photo caption to pair against “Rufous hornero (Furnarius rufus) at nest Colonia” (tier 2 imitation)",
+   "generator": "Pre-baked LLM",
+   "tells": [
+    "overly descriptive with 'meticulously constructing'",
+    "uses 'characteristic oven-shaped' which is too explanatory",
+    "too perfectly structured sentence with natural flow"
+   ],
+   "category": "photo caption"
+  }
+ },
+ {
+  "id": "txt-caption-sperm-whale-mother-calf",
+  "kind": "text",
+  "difficulty": 3,
+  "category": "Photo Caption",
+  "real": {
+   "text": "A mother sperm whale and her calf off the coast of Mauritius. The calf has remoras attached to its body.",
+   "source": "“Mother and baby sperm whale” — Gabriel Barathieu, 2015",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Mother_and_baby_sperm_whale.jpg",
+   "category": "photo caption"
+  },
+  "fake": {
+   "text": "A mother sperm whale and her calf swim near the surface of the Indian Ocean off Mauritius coast, with small remoras attached to the calf's body.",
+   "prompt": "Write a fake photo caption to pair against “Mother and baby sperm whale” (tier 3 imitation)",
+   "generator": "Pre-baked LLM",
+   "tells": [
+    "overly precise geographic location",
+    "too smooth sentence structure",
+    "unnatural adjective choice 'small remoras'"
+   ],
+   "category": "photo caption"
+  }
+ }
+]

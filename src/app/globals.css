@@ -1,0 +1,247 @@
+@import "tailwindcss";
+@import "tw-animate-css";
+
+@custom-variant dark (&:is(.dark *));
+
+@theme inline {
+  --color-background: var(--background);
+  --color-foreground: var(--foreground);
+  --font-sans: var(--font-geist-sans);
+  --font-mono: var(--font-geist-mono);
+  --font-display: var(--font-display);
+  --color-sidebar-ring: var(--sidebar-ring);
+  --color-sidebar-border: var(--sidebar-border);
+  --color-sidebar-accent-foreground: var(--sidebar-accent-foreground);
+  --color-sidebar-accent: var(--sidebar-accent);
+  --color-sidebar-primary-foreground: var(--sidebar-primary-foreground);
+  --color-sidebar-primary: var(--sidebar-primary);
+  --color-sidebar-foreground: var(--sidebar-foreground);
+  --color-sidebar: var(--sidebar);
+  --color-chart-5: var(--chart-5);
+  --color-chart-4: var(--chart-4);
+  --color-chart-3: var(--chart-3);
+  --color-chart-2: var(--chart-2);
+  --color-chart-1: var(--chart-1);
+  --color-ring: var(--ring);
+  --color-input: var(--input);
+  --color-border: var(--border);
+  --color-destructive: var(--destructive);
+  --color-accent-foreground: var(--accent-foreground);
+  --color-accent: var(--accent);
+  --color-muted-foreground: var(--muted-foreground);
+  --color-muted: var(--muted);
+  --color-secondary-foreground: var(--secondary-foreground);
+  --color-secondary: var(--secondary);
+  --color-primary-foreground: var(--primary-foreground);
+  --color-primary: var(--primary);
+  --color-popover-foreground: var(--popover-foreground);
+  --color-popover: var(--popover);
+  --color-card-foreground: var(--card-foreground);
+  --color-card: var(--card);
+  --radius-sm: calc(var(--radius) - 4px);
+  --radius-md: calc(var(--radius) - 2px);
+  --radius-lg: var(--radius);
+  --radius-xl: calc(var(--radius) + 4px);
+  /* game semantic colors */
+  --color-real: var(--real);
+  --color-real-soft: var(--real-soft);
+  --color-fake: var(--fake);
+  --color-fake-soft: var(--fake-soft);
+  --color-gold: var(--gold);
+  --color-ink: var(--ink);
+}
+
+/* The game is dark-only. */
+:root,
+.dark {
+  --radius: 0.75rem;
+  --background: oklch(0.145 0.018 285);
+  --foreground: oklch(0.965 0.005 285);
+  --card: oklch(0.19 0.02 285);
+  --card-foreground: oklch(0.965 0.005 285);
+  --popover: oklch(0.19 0.02 285);
+  --popover-foreground: oklch(0.965 0.005 285);
+  --primary: oklch(0.985 0 0);
+  --primary-foreground: oklch(0.205 0.02 285);
+  --secondary: oklch(0.26 0.02 285);
+  --secondary-foreground: oklch(0.965 0.005 285);
+  --muted: oklch(0.25 0.018 285);
+  --muted-foreground: oklch(0.72 0.012 285);
+  --accent: oklch(0.28 0.025 285);
+  --accent-foreground: oklch(0.985 0 0);
+  --destructive: oklch(0.63 0.22 25);
+  --border: oklch(1 0 0 / 12%);
+  --input: oklch(1 0 0 / 15%);
+  --ring: oklch(0.65 0.12 300);
+  --chart-1: oklch(0.72 0.19 330);
+  --chart-2: oklch(0.8 0.18 135);
+  --chart-3: oklch(0.82 0.16 85);
+  --chart-4: oklch(0.65 0.2 275);
+  --chart-5: oklch(0.7 0.18 40);
+  --sidebar: oklch(0.19 0.02 285);
+  --sidebar-foreground: oklch(0.965 0.005 285);
+  --sidebar-primary: oklch(0.72 0.19 330);
+  --sidebar-primary-foreground: oklch(0.145 0.018 285);
+  --sidebar-accent: oklch(0.28 0.025 285);
+  --sidebar-accent-foreground: oklch(0.985 0 0);
+  --sidebar-border: oklch(1 0 0 / 12%);
+  --sidebar-ring: oklch(0.65 0.12 300);
+
+  /* game palette: organic green vs synthetic magenta */
+  --real: oklch(0.8 0.19 138);
+  --real-soft: oklch(0.8 0.19 138 / 14%);
+  --fake: oklch(0.74 0.21 330);
+  --fake-soft: oklch(0.74 0.21 330 / 14%);
+  --gold: oklch(0.85 0.16 88);
+  --ink: oklch(0.115 0.015 285);
+}
+
+@layer base {
+  * {
+    @apply border-border outline-ring/50;
+  }
+  html {
+    color-scheme: dark;
+  }
+  body {
+    @apply bg-background text-foreground;
+    background-image:
+      radial-gradient(60rem 30rem at 85% -10%, oklch(0.35 0.09 330 / 22%), transparent 60%),
+      radial-gradient(50rem 28rem at 8% 110%, oklch(0.4 0.09 145 / 14%), transparent 60%);
+    background-attachment: fixed;
+  }
+  ::selection {
+    background: oklch(0.74 0.21 330 / 40%);
+  }
+}
+
+/* ---------- game animations ---------- */
+
+@keyframes stamp-in {
+  0% {
+    transform: scale(2.4) rotate(-14deg);
+    opacity: 0;
+  }
+  60% {
+    transform: scale(0.94) rotate(-8deg);
+    opacity: 1;
+  }
+  100% {
+    transform: scale(1) rotate(-8deg);
+    opacity: 1;
+  }
+}
+.animate-stamp {
+  animation: stamp-in 0.38s cubic-bezier(0.2, 1.4, 0.4, 1) both;
+}
+
+@keyframes shake-x {
+  0%, 100% { transform: translateX(0); }
+  20% { transform: translateX(-9px); }
+  40% { transform: translateX(8px); }
+  60% { transform: translateX(-6px); }
+  80% { transform: translateX(4px); }
+}
+.animate-shake {
+  animation: shake-x 0.45s ease-in-out both;
+}
+
+@keyframes pop-in {
+  0% { transform: scale(0.6); opacity: 0; }
+  70% { transform: scale(1.06); opacity: 1; }
+  100% { transform: scale(1); opacity: 1; }
+}
+.animate-pop {
+  animation: pop-in 0.32s cubic-bezier(0.2, 1.4, 0.4, 1) both;
+}
+
+@keyframes float-up {
+  0% { transform: translateY(14px); opacity: 0; }
+  25% { opacity: 1; }
+  100% { transform: translateY(-52px); opacity: 0; }
+}
+.animate-float-up {
+  animation: float-up 1.4s ease-out both;
+}
+
+@keyframes drift {
+  0% { transform: translateY(0) rotate(0deg); }
+  50% { transform: translateY(-12px) rotate(2deg); }
+  100% { transform: translateY(0) rotate(0deg); }
+}
+.animate-drift {
+  animation: drift 7s ease-in-out infinite;
+}
+
+@keyframes glow-pulse {
+  0%, 100% { box-shadow: 0 0 0 0 oklch(0.74 0.21 330 / 0%); }
+  50% { box-shadow: 0 0 26px 2px oklch(0.74 0.21 330 / 45%); }
+}
+.animate-glow {
+  animation: glow-pulse 1.6s ease-in-out infinite;
+}
+
+@keyframes scanline {
+  0% { transform: translateY(-100%); }
+  100% { transform: translateY(420%); }
+}
+.animate-scanline {
+  animation: scanline 2.6s linear infinite;
+}
+
+@keyframes timer-flash {
+  0%, 100% { opacity: 1; }
+  50% { opacity: 0.35; }
+}
+.animate-timer-flash {
+  animation: timer-flash 0.5s ease-in-out infinite;
+}
+
+@keyframes fade-up {
+  from {
+    opacity: 0;
+    transform: translateY(10px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+.animate-fade-up {
+  animation: fade-up 0.45s ease-out both;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .animate-stamp,
+  .animate-shake,
+  .animate-pop,
+  .animate-float-up,
+  .animate-drift,
+  .animate-glow,
+  .animate-scanline,
+  .animate-timer-flash,
+  .animate-fade-up {
+    animation: none !important;
+  }
+}
+
+/* thin styled scrollbars for long lists */
+.nice-scroll {
+  scrollbar-width: thin;
+  scrollbar-color: oklch(0.5 0.02 285) transparent;
+}
+.nice-scroll::-webkit-scrollbar {
+  width: 6px;
+  height: 6px;
+}
+.nice-scroll::-webkit-scrollbar-thumb {
+  background: oklch(0.45 0.02 285);
+  border-radius: 3px;
+}
+
+/* text card vignette */
+.text-card-bg {
+  background:
+    linear-gradient(160deg, oklch(0.97 0.01 95 / 6%), transparent 55%),
+    var(--card);
+}
