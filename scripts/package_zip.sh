@@ -26,102 +26,36 @@ cp README.md SUBMISSION.md .env.example .gitignore components.json \
    eslint.config.mjs postcss.config.mjs tailwind.config.ts tsconfig.json \
    bun.lock next-env.d.ts "$STAGE/"
 
-# ---------- Vercel-standard package.json (deps unchanged -> bun.lock stays valid) ----------
-cat > "$STAGE/package.json" <<'EOF'
-{
-  "name": "spot-the-ai",
-  "version": "1.0.0",
-  "private": true,
-  "description": "Real or AI? — a timed guessing game for Pollinations Quest #15725. One photo is real, one is AI-generated. Spot the fake.",
-  "scripts": {
-    "dev": "next dev",
-    "build": "next build",
-    "start": "next start",
-    "lint": "eslint .",
+# ---------- Vercel-standard package.json ----------
+# Derive deps/devDeps VERBATIM from the working local package.json (they match
+# bun.lock, which was resolved against the real npm registry). Only name/
+# description/scripts are overridden for a standard `next build` on Vercel.
+# NEVER hand-type dependency versions here — a typo ships a version that does
+# not exist on npm and Vercel's `bun install` fails with
+# "No version matching ^x.y.z found for specifier ...".
+jq '. + {
+  name: "spot-the-ai",
+  version: "1.0.0",
+  private: true,
+  description: "Real or AI? — a timed guessing game for Pollinations Quest #15725. One photo is real, one is AI-generated. Spot the fake.",
+  scripts: {
+    dev: "next dev",
+    build: "next build",
+    start: "next start",
+    lint: "eslint .",
     "content:regen": "bun scripts/regen_with_pollinations.ts",
     "content:build": "python3 scripts/build_rounds.py"
-  },
-  "dependencies": {
-    "@dnd-kit/core": "^6.3.1",
-    "@dnd-kit/sortable": "^10.0.0",
-    "@dnd-kit/utilities": "^3.2.2",
-    "@hookform/resolvers": "^5.1.1",
-    "@mdxeditor/editor": "^3.39.1",
-    "@prisma/client": "^6.11.1",
-    "@radix-ui/react-accordion": "^1.2.11",
-    "@radix-ui/react-alert-dialog": "^1.1.14",
-    "@radix-ui/react-aspect-ratio": "^1.0.7",
-    "@radix-ui/react-avatar": "^1.1.10",
-    "@radix-ui/react-checkbox": "^1.3.2",
-    "@radix-ui/react-collapsible": "^1.2.11",
-    "@radix-ui/react-context-menu": "^2.2.15",
-    "@radix-ui/react-dialog": "^1.1.14",
-    "@radix-ui/react-dropdown-menu": "^2.1.15",
-    "@radix-ui/react-hover-card": "^1.1.14",
-    "@radix-ui/react-label": "^2.1.7",
-    "@radix-ui/react-menubar": "^1.1.15",
-    "@radix-ui/react-navigation-menu": "^2.2.13",
-    "@radix-ui/react-popover": "^1.1.14",
-    "@radix-ui/react-progress": "^1.0.7",
-    "@radix-ui/react-radio-group": "^1.3.7",
-    "@radix-ui/react-scroll-area": "^1.2.9",
-    "@radix-ui/react-select": "^2.2.5",
-    "@radix-ui/react-separator": "^1.1.7",
-    "@radix-ui/react-slider": "^1.3.5",
-    "@radix-ui/react-slot": "^2.2.3",
-    "@radix-ui/react-switch": "^1.2.5",
-    "@radix-ui/react-tabs": "^1.1.12",
-    "@radix-ui/react-toast": "^2.2.14",
-    "@radix-ui/react-toggle": "^1.1.9",
-    "@radix-ui/react-toggle-group": "^1.1.10",
-    "@radix-ui/react-tooltip": "^2.1.7",
-    "@reactuses/core": "^6.0.5",
-    "@tanstack/react-query": "^5.82.0",
-    "@tanstack/react-table": "^8.21.3",
-    "class-variance-authority": "^0.7.1",
-    "clsx": "^2.1.1",
-    "cmdk": "^1.1.1",
-    "date-fns": "^4.1.0",
-    "embla-carousel-react": "^8.6.0",
-    "framer-motion": "^12.23.2",
-    "input-otp": "^1.4.2",
-    "lucide-react": "^0.525.0",
-    "next": "^16.1.1",
-    "next-auth": "^4.24.11",
-    "next-intl": "^4.3.4",
-    "next-themes": "^0.4.6",
-    "prisma": "^6.11.1",
-    "react": "^19.0.0",
-    "react-day-picker": "^9.8.0",
-    "react-dom": "^19.0.0",
-    "react-hook-form": "^7.60.0",
-    "react-markdown": "^10.1.0",
-    "react-resizable-panels": "^3.0.3",
-    "react-syntax-highlighter": "^15.6.1",
-    "recharts": "^2.15.4",
-    "sharp": "^0.34.3",
-    "sonner": "^2.0.6",
-    "tailwind-merge": "^3.3.1",
-    "tailwindcss-animate": "^1.0.7",
-    "uuid": "^11.1.0",
-    "vaul": "^1.1.2",
-    "z-ai-web-dev-sdk": "^0.0.18",
-    "zod": "^4.0.2",
-    "zustand": "^5.0.6"
-  },
-  "devDependencies": {
-    "@tailwindcss/postcss": "^4",
-    "@types/react": "^19",
-    "@types/react-dom": "^19",
-    "bun-types": "^1.3.4",
-    "eslint": "^9",
-    "eslint-config-next": "^16.1.1",
-    "tailwindcss": "^4",
-    "tw-animate-css": "^1.3.5",
-    "typescript": "^5"
   }
-}
-EOF
+}' package.json > "$STAGE/package.json"
+
+# sanity: deps in the zip must be byte-identical to the source of truth
+jq -S '.dependencies, .devDependencies' package.json > /tmp/deps_local.json
+jq -S '.dependencies, .devDependencies' "$STAGE/package.json" > /tmp/deps_zip.json
+if ! diff -q /tmp/deps_local.json /tmp/deps_zip.json >/dev/null; then
+  echo "FATAL: zip package.json deps diverge from local package.json" >&2
+  diff /tmp/deps_local.json /tmp/deps_zip.json >&2 || true
+  exit 1
+fi
 
 # ---------- Vercel-standard next.config (no standalone output needed) ----------
 cat > "$STAGE/next.config.ts" <<'EOF'
